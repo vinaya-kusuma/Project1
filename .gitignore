@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Big input files
+Occupational_Employment_State_2022.xlsx
+
 # Distribution / packaging
 .Python
 build/
