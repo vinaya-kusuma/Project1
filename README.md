@@ -37,11 +37,10 @@ Article: oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
 6.	For the occupation codes
   	May 2022 National Occupational Employment and Wage Estimates (bls.gov)
   	
-8.  Statewise Occupation data
-    https://www.bls.gov/oes/special.requests/oes_research_2022_allsectors.xlsx
+8.  Statewise Occupation data [download link](https://docs.google.com/spreadsheets/d/1vPgfSd1oOP8MAn52J7coPReTVi7V2ihl/edit?usp=share_link&ouid=116688671136343262834&rtpof=true&sd=true). This data is sourced from bls.gov. Size of data is 138 MBs and hence cannot be uploaded here. It needs to be downloaded and moved to Resources folder.
   
 10. State name to state  code data for map
-    https://github.com/jasonong/List-of-US-States/blob/master/states.csv
+    [download link](https://github.com/jasonong/List-of-US-States/blob/master/states.csv)
 
 Rough breakdown of tasks:
 •	Finalize the domain and project title.
