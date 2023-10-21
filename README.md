@@ -28,6 +28,9 @@ We have used plotly express library to plot US map with states in our code. Here
 ```
 conda install -c plotly plotly_express
 ```
+```
+conda install -c conda-forge python-kaleido
+```
 Here is the [link](https://pypi.org/project/plotly-express/) for more information on plotly-express.
 
 ## Datasets to be used:
