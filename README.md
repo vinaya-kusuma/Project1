@@ -17,7 +17,9 @@ Research questions to answer:
 5.	What are the fastest growing/declining occupations?
 6.	What are the employment prospects for the job seekers who have lost their jobs due to automation?
 7.	What is the impact of automation across US states.
-8.	What are the highly impacted jobs in certain US states? 
+   https://github.com/vinaya-kusuma/Project1/blob/main/Automation_Analysis_by_state.ipynb
+8.	What are the highly impacted jobs in certain US states?
+9.	https://github.com/vinaya-kusuma/Project1/blob/main/Automation_Analysis_by_state.ipynb
 
 Datasets to be used:
 1.	Main link
