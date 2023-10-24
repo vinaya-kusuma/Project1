@@ -16,7 +16,7 @@ In this project, we analyze the current and the projected employment distributio
 ## Research questions to answer:
 1.	*What is the current and projected employment distribution across various sectors/industries?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Occupation_Analysis.ipynb)*
 2.	*What is the distribution of the wages for different sectors?*
-3.	*Whare are employment openings and average change?*
+3.	*Correlation between the job experience for declining jobs and automation probability?*
 4.	*What are the jobs that are affected the most due to automation?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Occupation_Analysis.ipynb)*
 5.  *What is the impact of automation on different Ethnicities?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Ethnicity_Occupation_Analysis.ipynb)*
 6.	*What are the fastest growing/declining occupations?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Occupation_Analysis.ipynb)*
