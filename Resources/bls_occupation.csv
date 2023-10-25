@@ -1,0 +1,1118 @@
+﻿2022 National Employment Matrix title,2022 National Employment Matrix code,Occupation type,"Employment, 2022","Employment, 2032","Employment change, numeric, 2022-32","Employment change, percent, 2022-32","Percent self employed, 2022","Occupational openings, 2022-32 annual average","Median annual wage, 2022(1)",Typical education needed for entry,Work experience in a related occupation,Typical on-the-job training needed to attain competency in the occupation
+"Total, all occupations",00-0000,Summary,"164,482.60","169,148.10","4,665.50",2.8,6,"18,566.50","$46,310 ",,,
+  Management occupations,11-0000,Summary,"12,574.70","13,257.70",683,5.4,15.8,"1,053.10","$107,360 ",,,
+    Top executives,11-1000,Summary,"3,832.20","3,958.00",125.8,3.3,1.8,315,"$99,890 ",,,
+      Chief executives,11-1011,Line item,280,257,-23,-8.2,21.2,15.3,"$189,520 ",Bachelor's degree,5 years or more,None
+      General and operations managers,11-1021,Line item,"3,507.80","3,655.10",147.3,4.2,0.3,296.3,"$98,100 ",Bachelor's degree,5 years or more,None
+      Legislators,11-1031,Line item,44.4,46,1.5,3.4,,3.4,"$48,090 ",Bachelor's degree,Less than 5 years,None
+"    Advertising, marketing, promotions, public relations, and sales managers",Nov-00,Summary,"1,049.40","1,102.20",52.8,5,3.5,85,"$132,820 ",,,
+      Advertising and promotions managers,11-Nov,Line item,30.9,31.4,0.6,1.9,27,2.8,"$127,830 ",Bachelor's degree,Less than 5 years,None
+      Marketing and sales managers,20-Nov,Summary,912.9,959.1,46.2,5.1,2.9,74.4,"$133,880 ",,,
+        Marketing managers,21-Nov,Line item,358.2,381.9,23.7,6.6,5.3,31.2,"$140,040 ",Bachelor's degree,5 years or more,None
+        Sales managers,22-Nov,Line item,554.7,577.2,22.5,4,1.3,43.2,"$130,600 ",Bachelor's degree,Less than 5 years,None
+      Public relations and fundraising managers,30-Nov,Summary,105.7,111.7,6,5.7,2.3,7.8,"$125,620 ",,,
+        Public relations managers,Nov-32,Line item,72,76.3,4.3,5.9,2.3,5.4,"$129,430 ",Bachelor's degree,5 years or more,None
+        Fundraising managers,Nov-33,Line item,33.7,35.4,1.7,5.1,2.1,2.5,"$107,390 ",Bachelor's degree,5 years or more,None
+    Operations specialties managers,Nov-00,Summary,"2,455.50","2,722.60",267.1,10.9,1.6,205.5,"$130,950 ",,,
+      Administrative services and facilities managers,10-Nov,Summary,377.8,397.7,19.9,5.3,0.4,31.4,"$101,870 ",,,
+        Administrative services managers,12-Nov,Line item,250.8,264.9,14,5.6,,21.1,"$103,330 ",Bachelor's degree,Less than 5 years,None
+        Facilities managers,13-Nov,Line item,127,132.8,5.8,4.6,1.2,10.3,"$99,030 ",Bachelor's degree,Less than 5 years,None
+      Computer and information systems managers,21-Nov,Line item,557.4,643.3,86,15.4,1.2,46.9,"$164,070 ",Bachelor's degree,5 years or more,None
+      Financial managers,Nov-31,Line item,792.6,919.2,126.6,16,2.5,69.6,"$139,790 ",Bachelor's degree,5 years or more,None
+      Industrial production managers,Nov-51,Line item,222.1,225.7,3.6,1.6,2.3,15.3,"$107,560 ",Bachelor's degree,5 years or more,None
+      Purchasing managers,Nov-61,Line item,77.5,80.9,3.4,4.4,1.7,6.1,"$131,350 ",Bachelor's degree,5 years or more,None
+"      Transportation, storage, and distribution managers",Nov-71,Line item,177.7,192.3,14.6,8.2,1.9,15.9,"$98,560 ",High school diploma or equivalent,5 years or more,None
+      Compensation and benefits managers,11-Nov,Line item,17.5,17.8,0.4,2.2,,1.1,"$131,280 ",Bachelor's degree,5 years or more,None
+      Human resources managers,21-Nov,Line item,191.6,201.6,10,5.2,1.4,15.5,"$130,000 ",Bachelor's degree,5 years or more,None
+      Training and development managers,Nov-31,Line item,41.3,44,2.7,6.5,,3.5,"$120,000 ",Bachelor's degree,5 years or more,None
+    Other management occupations,Nov-00,Summary,"5,237.50","5,474.90",237.4,4.5,35.1,447.6,"$99,740 ",,,
+"      Farmers, ranchers, and other agricultural managers",13-Nov,Line item,922.9,880.6,-42.3,-4.6,67.2,88.8,"$75,760 ",High school diploma or equivalent,5 years or more,None
+      Construction managers,21-Nov,Line item,505.8,528.7,22.9,4.5,39.3,38.7,"$101,480 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Education and childcare administrators,30-Nov,Summary,651,661.4,10.3,1.6,2.9,44.1,"$97,920 ",,,
+"        Education and childcare administrators, preschool and daycare",Nov-31,Line item,74.8,72.6,-2.2,-3,6.8,4.6,"$49,690 ",Bachelor's degree,Less than 5 years,None
+"        Education administrators, kindergarten through secondary",Nov-32,Line item,300.4,303.7,3.3,1.1,1.5,20.2,"$101,320 ",Master's degree,5 years or more,None
+"        Education administrators, postsecondary",Nov-33,Line item,218.2,225.9,7.7,3.5,2.9,15.3,"$99,940 ",Master's degree,Less than 5 years,None
+"        Education administrators, all other",Nov-39,Line item,57.6,59.2,1.6,2.8,4.8,4,"$89,130 ",Bachelor's degree,Less than 5 years,None
+      Architectural and engineering managers,Nov-41,Line item,201.5,209.7,8.2,4.1,0.2,13.6,"$159,920 ",Bachelor's degree,5 years or more,None
+      Food service managers,Nov-51,Line item,357.5,359.2,1.6,0.5,33.4,39.6,"$61,310 ",High school diploma or equivalent,Less than 5 years,Short-term on-the-job training
+      Entertainment and recreation managers,Nov-70,Summary,31.7,34.1,2.3,7.3,7.4,3.7,"$71,420 ",,,
+        Gambling managers,Nov-71,Line item,5.3,5.4,0.1,2.6,6.5,0.6,"$80,710 ",High school diploma or equivalent,Less than 5 years,None
+"        Entertainment and recreation managers, except gambling",Nov-72,Line item,26.4,28.6,2.2,8.3,7.6,3.1,"$67,220 ",Bachelor's degree,Less than 5 years,None
+      Lodging managers,Nov-81,Line item,50.8,54.2,3.4,6.7,17.1,5.4,"$61,910 ",High school diploma or equivalent,Less than 5 years,None
+      Medical and health services managers,11-Nov,Line item,509.5,654.2,144.7,28.4,3.5,54.7,"$104,830 ",Bachelor's degree,Less than 5 years,None
+      Natural sciences managers,21-Nov,Line item,86.3,90.5,4.2,4.8,,6.5,"$144,440 ",Bachelor's degree,5 years or more,None
+      Postmasters and mail superintendents,Nov-31,Line item,13,12.1,-0.9,-6.7,,0.8,"$82,760 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"      Property, real estate, and community association managers",Nov-41,Line item,429.6,453,23.4,5.4,37.5,35.9,"$60,670 ",High school diploma or equivalent,Less than 5 years,Short-term on-the-job training
+      Social and community service managers,Nov-51,Line item,178.4,194.6,16.2,9.1,4.7,16,"$74,240 ",Bachelor's degree,Less than 5 years,None
+      Emergency management directors,Nov-61,Line item,11.8,12.2,0.4,3.3,,0.9,"$79,180 ",Bachelor's degree,5 years or more,None
+      Personal service managers,Nov-70,Summary,59.4,61.2,1.8,3,60.1,4.5,"$62,120 ",,,
+        Funeral home managers,Nov-71,Line item,36.4,37.2,0.8,2.2,60.9,2.7,"$72,110 ",Associate's degree,Less than 5 years,None
+"        Personal service managers, all other",Nov-79,Line item,23.1,24.1,1,4.3,58.7,1.8,"$56,090 ",High school diploma or equivalent,Less than 5 years,None
+"      Managers, all other",Nov-99,Line item,"1,228.30","1,269.40",41,3.3,52.5,94.4,"$128,620 ",Bachelor's degree,Less than 5 years,None
+  Business and financial operations occupations,13-0000,Summary,"10,591.10","11,179.70",588.6,5.6,4.2,911.4,"$76,850 ",,,
+    Business operations specialists,13-1000,Summary,"7,267.50","7,683.50",415.9,5.7,3.7,648.2,"$76,050 ",,,
+"      Agents and business managers of artists, performers, and athletes",13-1011,Line item,19.9,21.5,1.6,8.2,33.1,2.1,"$82,530 ",Bachelor's degree,Less than 5 years,None
+      Buyers and purchasing agents,13-1020,Line item,494.4,456.3,-38,-7.7,3.4,39,"$67,620 ",Bachelor's degree,None,Moderate-term on-the-job training
+"      Claims adjusters, appraisers, examiners, and investigators",13-1030,Summary,342.6,331.9,-10.7,-3.1,1.2,21.5,"$72,040 ",,,
+"        Claims adjusters, examiners, and investigators",13-1031,Line item,329,318.7,-10.3,-3.1,1.2,20.6,"$72,230 ",High school diploma or equivalent,None,Long-term on-the-job training
+"        Insurance appraisers, auto damage",13-1032,Line item,13.6,13.3,-0.4,-2.6,1.4,0.9,"$69,380 ",Postsecondary nondegree award,None,Moderate-term on-the-job training
+      Compliance officers,13-1041,Line item,377.5,394.7,17.2,4.6,0,31,"$71,690 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Cost estimators,13-1051,Line item,231.4,224.9,-6.5,-2.8,1.2,18,"$71,200 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Human resources workers,13-1070,Summary,940.7,991.6,51,5.4,1.3,84.1,"$65,000 ",,,
+        Human resources specialists,13-1071,Line item,874.5,925.9,51.4,5.9,1.3,78.7,"$64,240 ",Bachelor's degree,None,None
+        Farm labor contractors,13-1074,Line item,1.6,1.7,0.1,7.4,,0.2,"$49,330 ",No formal educational credential,Less than 5 years,Short-term on-the-job training
+        Labor relations specialists,13-1075,Line item,64.6,64,-0.5,-0.8,1.4,5.2,"$82,010 ",Bachelor's degree,Less than 5 years,None
+      Logisticians and project management specialists,13-1080,Summary,"1,090.00","1,182.90",93,8.5,0.7,89.9,"$88,050 ",,,
+        Logisticians,13-1081,Line item,208.7,246.9,38.3,18.3,0.6,21.8,"$77,520 ",Bachelor's degree,None,None
+        Project management specialists,13-1082,Line item,881.3,936,54.7,6.2,0.8,68.1,"$95,370 ",Bachelor's degree,None,None
+      Management analysts,13-1111,Line item,987.6,"1,083.30",95.7,9.7,14.3,92.9,"$95,290 ",Bachelor's degree,Less than 5 years,None
+"      Meeting, convention, and event planners",13-1121,Line item,132,141.9,9.9,7.5,3.5,15.2,"$52,560 ",Bachelor's degree,None,None
+      Fundraisers,13-1131,Line item,124,130.5,6.5,5.2,2.1,9.9,"$61,190 ",Bachelor's degree,None,None
+"      Compensation, benefits, and job analysis specialists",13-1141,Line item,98.2,105.1,6.9,7,,7.7,"$67,780 ",Bachelor's degree,Less than 5 years,None
+      Training and development specialists,13-1151,Line item,385.8,409.9,24.2,6.3,0.8,35.4,"$63,080 ",Bachelor's degree,Less than 5 years,None
+      Market research analysts and marketing specialists,13-1161,Line item,868.6,985.2,116.6,13.4,4.6,94.6,"$68,230 ",Bachelor's degree,None,None
+"      Business operations specialists, all other",13-1199,Line item,"1,174.80","1,223.60",48.7,4.1,2.3,107,"$75,990 ",Bachelor's degree,None,None
+    Financial specialists,13-2000,Summary,"3,323.60","3,496.20",172.7,5.2,5.2,263.2,"$78,180 ",,,
+      Accountants and auditors,13-2011,Line item,"1,538.40","1,605.80",67.4,4.4,4.2,126.5,"$78,000 ",Bachelor's degree,None,None
+      Property appraisers and assessors,13-2020,Line item,77.6,81.1,3.6,4.6,20,6.9,"$61,560 ",Bachelor's degree,None,Long-term on-the-job training
+      Budget analysts,13-2031,Line item,51.6,53.3,1.7,3.3,,3.6,"$82,260 ",Bachelor's degree,None,None
+      Credit analysts,13-2041,Line item,73,69.9,-3.2,-4.3,0.4,4.6,"$78,850 ",Bachelor's degree,None,None
+      Financial analysts and advisors,13-2050,Summary,829.1,897.1,68,8.2,7.4,61.3,"$90,680 ",,,
+        Financial and investment analysts,13-2051,Line item,317.2,341.4,24.2,7.6,5.6,23,"$95,080 ",Bachelor's degree,None,None
+        Personal financial advisors,13-2052,Line item,327.6,369.6,42,12.8,12.2,25.6,"$95,390 ",Bachelor's degree,None,Long-term on-the-job training
+        Insurance underwriters,13-2053,Line item,125.5,122.4,-3,-2.4,1.6,8.2,"$76,230 ",Bachelor's degree,None,Moderate-term on-the-job training
+        Financial risk specialists,13-2054,Line item,58.9,63.7,4.8,8.2,2.2,4.4,"$102,120 ",Bachelor's degree,None,None
+      Financial examiners,13-2061,Line item,65.6,78.5,12.8,19.5,,6.3,"$82,210 ",Bachelor's degree,None,Long-term on-the-job training
+      Credit counselors and loan officers,13-2070,Summary,387.7,399.8,12.2,3.1,1.5,27.7,"$63,650 ",,,
+        Credit counselors,13-2071,Line item,32.8,34.6,1.8,5.4,1.1,2.4,"$47,320 ",Bachelor's degree,None,Moderate-term on-the-job training
+        Loan officers,13-2072,Line item,354.8,365.3,10.4,2.9,1.6,25.3,"$65,740 ",Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+"      Tax examiners, collectors and preparers, and revenue agents",13-2080,Summary,164.6,166.5,1.9,1.2,14.5,16.5,"$51,830 ",,,
+"        Tax examiners and collectors, and revenue agents",13-2081,Line item,55,55.4,0.3,0.6,2,4.1,"$57,950 ",Bachelor's degree,None,Moderate-term on-the-job training
+        Tax preparers,13-2082,Line item,109.5,111.1,1.6,1.5,20.8,12.4,"$48,250 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Financial specialists, all other",13-2099,Line item,136,144.2,8.3,6.1,1.6,9.9,"$73,810 ",Bachelor's degree,None,None
+  Computer and mathematical occupations,15-0000,Summary,"5,277.60","6,081.40",803.8,15.2,2.1,411,"$100,440 ",,,
+    Computer occupations,15-1200,Summary,"4,929.10","5,631.00",701.9,14.2,2.2,377.5,"$100,530 ",,,
+      Computer and information analysts,15-1210,Summary,700.3,804.7,104.4,14.9,1.8,54.3,"$104,230 ",,,
+        Computer systems analysts,15-1211,Line item,531.4,582.6,51.1,9.6,2.2,37.6,"$102,240 ",Bachelor's degree,None,None
+        Information security analysts,15-1212,Line item,168.9,222.2,53.2,31.5,0.5,16.8,"$112,000 ",Bachelor's degree,Less than 5 years,None
+      Computer and information research scientists,15-1221,Line item,36.5,44.8,8.3,22.7,,3.4,"$136,620 ",Master's degree,None,None
+      Computer support specialists,15-1230,Summary,914.1,963.3,49.2,5.4,2,66.5,"$59,660 ",,,
+        Computer network support specialists,15-1231,Line item,177.9,190.4,12.5,7,1.9,13.3,"$68,050 ",Associate's degree,None,Moderate-term on-the-job training
+        Computer user support specialists,15-1232,Line item,736.2,772.9,36.8,5,2,53.2,"$57,890 ","Some college, no degree",None,Moderate-term on-the-job training
+      Database and network administrators and architects,15-1240,Summary,669.4,696.4,27,4,0.4,40.2,"$103,270 ",,,
+        Computer network architects,15-1241,Line item,180.2,186.6,6.3,3.5,1.4,10.2,"$126,900 ",Bachelor's degree,5 years or more,None
+        Database administrators,15-1242,Line item,85.2,91.2,6,7,,5.7,"$99,890 ",Bachelor's degree,None,None
+        Database architects,15-1243,Line item,64,70.4,6.4,10,,4.5,"$134,870 ",Bachelor's degree,Less than 5 years,None
+        Network and computer systems administrators,15-1244,Line item,339.9,348.2,8.3,2.5,,19.8,"$90,520 ",Bachelor's degree,None,None
+"      Software and web developers, programmers, and testers",15-1250,Summary,"2,159.40","2,628.60",469.2,21.7,2.7,179.5,"$114,190 ",,,
+        Computer programmers,15-1251,Line item,147.4,130.8,-16.6,-11.2,7.1,6.7,"$97,800 ",Bachelor's degree,None,None
+        Software developers,15-1252,Line item,"1,594.50","2,004.90",410.4,25.7,1.6,136.3,"$127,260 ",Bachelor's degree,None,None
+        Software quality assurance analysts and testers,15-1253,Line item,200.8,241.6,40.8,20.3,,17.5,"$99,620 ",Bachelor's degree,None,None
+        Web developers,15-1254,Line item,98.8,115.5,16.7,17,6.6,8.3,"$78,580 ",Bachelor's degree,None,None
+        Web and digital interface designers,15-1255,Line item,117.9,135.8,17.9,15.2,13.1,10.7,"$83,240 ",Bachelor's degree,None,None
+"      Computer occupations, all other",15-1299,Line item,449.4,493.1,43.8,9.7,3.2,33.5,"$98,740 ",Bachelor's degree,None,None
+    Mathematical science occupations,15-2000,Summary,348.5,450.4,101.9,29.2,0.7,33.5,"$99,590 ",,,
+      Actuaries,15-2011,Line item,30,36.9,7,23.2,,2.3,"$113,990 ",Bachelor's degree,None,Long-term on-the-job training
+      Mathematicians,15-2021,Line item,2.3,2.3,0.1,2.2,,0.1,"$112,110 ",Master's degree,None,None
+      Operations research analysts,15-2031,Line item,109.9,134.7,24.7,22.5,0.3,9.8,"$85,720 ",Bachelor's degree,None,None
+      Statisticians,15-2041,Line item,33.3,43.9,10.5,31.6,0.8,3.3,"$98,920 ",Master's degree,None,None
+      Data scientists,15-2051,Line item,168.9,228.2,59.4,35.2,1.1,17.7,"$103,500 ",Bachelor's degree,None,None
+"      Mathematical science occupations, all other",15-2099,Line item,4.1,4.4,0.3,6.2,,0.3,"$71,700 ",Bachelor's degree,None,None
+  Architecture and engineering occupations,17-0000,Summary,"2,611.80","2,746.80",134.9,5.2,2.8,188,"$83,700 ",,,
+"    Architects, surveyors, and cartographers",17-1000,Summary,212.2,221.3,9.2,4.3,11.1,14.5,"$79,000 ",,,
+"      Architects, except naval",17-1010,Summary,147.3,153.5,6.2,4.2,14.2,10,"$81,640 ",,,
+"        Architects, except landscape and naval",17-1011,Line item,123.7,129.7,6,4.8,12.6,8.2,"$82,840 ",Bachelor's degree,None,Internship/residency
+        Landscape architects,17-1012,Line item,23.6,23.8,0.2,0.7,23,1.8,"$73,210 ",Bachelor's degree,None,Internship/residency
+"      Surveyors, cartographers, and photogrammetrists",17-1020,Summary,64.8,67.8,3,4.7,4.1,4.4,"$64,710 ",,,
+        Cartographers and photogrammetrists,17-1021,Line item,14,14.7,0.7,5,2.8,1,"$71,890 ",Bachelor's degree,None,None
+        Surveyors,17-1022,Line item,50.8,53.1,2.3,4.6,4.5,3.5,"$63,080 ",Bachelor's degree,None,Internship/residency
+    Engineers,17-2000,Summary,"1,736.10","1,856.60",120.5,6.9,2,111.4,"$100,030 ",,,
+      Aerospace engineers,17-2011,Line item,63.8,67.7,3.9,6.1,,3.8,"$126,880 ",Bachelor's degree,None,None
+      Agricultural engineers,17-2021,Line item,1.6,1.7,0.1,6.3,,0.1,"$83,260 ",Bachelor's degree,None,None
+      Bioengineers and biomedical engineers,17-2031,Line item,19.7,20.7,1,5.1,,1.2,"$99,550 ",Bachelor's degree,None,None
+      Chemical engineers,17-2041,Line item,20.8,22.5,1.7,8.1,,1.3,"$106,260 ",Bachelor's degree,None,None
+      Civil engineers,17-2051,Line item,326.3,342.5,16.2,5,3.5,21.2,"$89,940 ",Bachelor's degree,None,None
+      Computer hardware engineers,17-2061,Line item,78.1,81.6,3.6,4.6,1.9,4.6,"$132,360 ",Bachelor's degree,None,None
+      Electrical and electronics engineers,17-2070,Summary,299.7,315.5,15.8,5.3,1.7,17.8,"$104,610 ",,,
+        Electrical engineers,17-2071,Line item,188.8,196.6,7.9,4.2,1.7,11,"$103,320 ",Bachelor's degree,None,None
+"        Electronics engineers, except computer",17-2072,Line item,110.9,118.9,7.9,7.2,1.6,6.9,"$108,170 ",Bachelor's degree,None,None
+      Environmental engineers,17-2081,Line item,47.3,50.2,2.9,6.1,1.4,3.4,"$96,530 ",Bachelor's degree,None,None
+"      Industrial engineers, including health and safety",17-2110,Summary,349.3,388.5,39.2,11.2,0,24.1,"$96,590 ",,,
+"        Health and safety engineers, except mining safety engineers and inspectors",17-2111,Line item,22,22.8,0.8,3.7,,1.3,"$100,660 ",Bachelor's degree,None,None
+        Industrial engineers,17-2112,Line item,327.3,365.7,38.4,11.7,0,22.8,"$96,350 ",Bachelor's degree,None,None
+      Marine engineers and naval architects,17-2121,Line item,8,8.1,0.1,0.7,4.5,0.4,"$96,910 ",Bachelor's degree,None,None
+      Materials engineers,17-2131,Line item,22.3,23.5,1.1,5.1,1.2,1.5,"$100,140 ",Bachelor's degree,None,None
+      Mechanical engineers,17-2141,Line item,286.1,314.7,28.5,10,1,19.2,"$96,310 ",Bachelor's degree,None,None
+"      Mining and geological engineers, including mining safety engineers",17-2151,Line item,7.5,7.6,0,0.3,,0.4,"$97,490 ",Bachelor's degree,None,None
+      Nuclear engineers,17-2161,Line item,13.8,13.9,0.1,1.1,7.4,0.8,"$122,480 ",Bachelor's degree,None,None
+      Petroleum engineers,17-2171,Line item,21.4,21.9,0.5,2.5,,1.2,"$131,800 ",Bachelor's degree,None,None
+"      Engineers, all other",17-2199,Line item,170.3,176,5.7,3.3,7,10.4,"$104,600 ",Bachelor's degree,None,None
+"    Drafters, engineering technicians, and mapping technicians",17-3000,Summary,663.6,668.8,5.2,0.8,2.2,62.1,"$61,090 ",,,
+      Drafters,17-3010,Summary,197.3,193,-4.3,-2.2,1.5,16.6,"$60,400 ",,,
+        Architectural and civil drafters,17-3011,Line item,107.1,107.7,0.6,0.6,0.2,10,"$59,820 ",Associate's degree,None,None
+        Electrical and electronics drafters,17-3012,Line item,21.8,22,0.2,0.9,2.9,1.8,"$64,240 ",Associate's degree,None,None
+        Mechanical drafters,17-3013,Line item,49.6,46,-3.6,-7.2,3,3.5,"$61,310 ",Associate's degree,None,None
+"        Drafters, all other",17-3019,Line item,18.7,17.3,-1.5,-7.8,2.9,1.3,"$57,640 ",Associate's degree,None,None
+"      Engineering technologists and technicians, except drafters",17-3020,Summary,402.1,409.5,7.3,1.8,1.4,37.8,"$62,530 ",,,
+        Aerospace engineering and operations technologists and technicians,17-3021,Line item,10.2,11,0.8,8.3,1.7,1,"$74,410 ",Associate's degree,None,None
+        Civil engineering technologists and technicians,17-3022,Line item,64.8,65.4,0.6,0.9,1,5.9,"$59,630 ",Associate's degree,None,None
+        Electrical and electronic engineering technologists and technicians,17-3023,Line item,102.5,103.3,0.8,0.8,1.1,9.9,"$66,390 ",Associate's degree,None,None
+        Electro-mechanical and mechatronics technologists and technicians,17-3024,Line item,15.2,14.8,-0.4,-2.7,1.7,1.3,"$60,570 ",Associate's degree,None,None
+        Environmental engineering technologists and technicians,17-3025,Line item,13.9,14.1,0.2,1.3,1.5,1.3,"$50,980 ",Associate's degree,None,None
+        Industrial engineering technologists and technicians,17-3026,Line item,69.1,71.3,2.2,3.2,1.7,6.5,"$61,210 ",Associate's degree,None,None
+        Mechanical engineering technologists and technicians,17-3027,Line item,41.1,41.4,0.3,0.6,1.7,3.7,"$61,990 ",Associate's degree,None,None
+        Calibration technologists and technicians,17-3028,Line item,11.3,11.8,0.5,4.4,1.7,1.1,"$62,050 ",Associate's degree,None,None
+"        Engineering technologists and technicians, except drafters, all other",17-3029,Line item,74.1,76.4,2.3,3.1,1.3,7,"$65,520 ",Associate's degree,None,None
+      Surveying and mapping technicians,17-3031,Line item,64.2,66.3,2.1,3.3,10.1,7.8,"$47,180 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"  Life, physical, and social science occupations",19-0000,Summary,"1,473.70","1,563.20",89.5,6.1,5.2,136.8,"$74,330 ",,,
+    Life scientists,19-1000,Summary,344.4,368.8,24.5,7.1,1,25.4,"$83,060 ",,,
+      Agricultural and food scientists,19-1010,Summary,35.4,37.5,2.1,6,1.6,3,"$74,940 ",,,
+        Animal scientists,19-1011,Line item,2.8,2.9,0.2,5.7,,0.2,"$69,390 ",Bachelor's degree,None,None
+        Food scientists and technologists,19-1012,Line item,15.3,16.5,1.1,7.5,1.9,1.3,"$79,860 ",Bachelor's degree,None,None
+        Soil and plant scientists,19-1013,Line item,17.2,18.1,0.8,4.7,1.4,1.4,"$65,730 ",Bachelor's degree,None,None
+      Biological scientists,19-1020,Summary,135,141.3,6.3,4.7,1.2,10.6,"$86,000 ",,,
+        Biochemists and biophysicists,19-1021,Line item,34.5,36.8,2.3,6.7,1.7,2.8,"$103,810 ",Doctoral or professional degree,None,None
+        Microbiologists,19-1022,Line item,20.9,22,1.1,5.2,1.3,1.7,"$81,990 ",Bachelor's degree,None,None
+        Zoologists and wildlife biologists,19-1023,Line item,19.1,19.7,0.6,3,0.5,1.5,"$67,430 ",Bachelor's degree,None,None
+"        Biological scientists, all other",19-1029,Line item,60.4,62.7,2.3,3.9,1,4.7,"$87,300 ",Bachelor's degree,None,None
+      Conservation scientists and foresters,19-1030,Summary,36,37.3,1.3,3.5,0.7,3,"$64,420 ",,,
+        Conservation scientists,19-1031,Line item,24.7,25.7,1,4.1,0.6,2.1,"$64,460 ",Bachelor's degree,None,None
+        Foresters,19-1032,Line item,11.3,11.6,0.3,2.4,0.9,0.9,"$64,220 ",Bachelor's degree,None,None
+      Medical scientists,19-1040,Summary,129.1,143.4,14.3,11.1,0.9,8.3,"$97,210 ",,,
+        Epidemiologists,19-1041,Line item,10,12.7,2.7,26.7,,0.8,"$78,520 ",Master's degree,None,None
+"        Medical scientists, except epidemiologists",19-1042,Line item,119,130.7,11.6,9.8,0.9,7.5,"$99,930 ",Doctoral or professional degree,None,None
+"      Life scientists, all other",19-1099,Line item,9,9.4,0.5,5.2,0.8,0.5,"$83,930 ",Bachelor's degree,None,None
+    Physical scientists,19-2000,Summary,267.8,282.1,14.2,5.3,1.9,21,"$83,760 ",,,
+      Astronomers and physicists,19-2010,Summary,23.6,24.7,1.1,4.7,5.1,1.5,"$139,220 ",,,
+        Astronomers,19-2011,Line item,2.4,2.6,0.1,4.6,4.2,0.2,"$128,330 ",Doctoral or professional degree,None,None
+        Physicists,19-2012,Line item,21.1,22.1,1,4.7,5.2,1.4,"$142,850 ",Doctoral or professional degree,None,None
+      Atmospheric and space scientists,19-2021,Line item,10.5,11,0.5,4.4,,0.9,"$83,780 ",Bachelor's degree,None,None
+      Chemists and materials scientists,19-2030,Summary,95,100.8,5.8,6.1,,7.2,"$81,810 ",,,
+        Chemists,19-2031,Line item,87.1,92.5,5.4,6.2,,6.6,"$80,670 ",Bachelor's degree,None,None
+        Materials scientists,19-2032,Line item,7.9,8.3,0.4,5.1,,0.6,"$104,380 ",Bachelor's degree,None,None
+      Environmental scientists and geoscientists,19-2040,Summary,113.3,119.6,6.3,5.6,0.1,9.6,"$78,730 ",,,
+"        Environmental scientists and specialists, including health",19-2041,Line item,80.5,85.3,4.9,6.1,,6.9,"$76,480 ",Bachelor's degree,None,None
+"        Geoscientists, except hydrologists and geographers",19-2042,Line item,26.3,27.6,1.3,5.1,0.3,2.2,"$87,480 ",Bachelor's degree,None,None
+        Hydrologists,19-2043,Line item,6.6,6.7,0.1,1.5,,0.5,"$85,990 ",Bachelor's degree,None,None
+"      Physical scientists, all other",19-2099,Line item,25.4,25.9,0.5,2.1,15.3,1.7,"$107,970 ",Bachelor's degree,None,None
+    Social scientists and related workers,19-3000,Summary,326.1,342.1,16,4.9,18.4,23.3,"$84,000 ",,,
+      Economists,19-3011,Line item,17.6,18.7,1.1,6.3,1.4,1.2,"$113,940 ",Master's degree,None,None
+      Survey researchers,19-3022,Line item,8.8,8.4,-0.3,-3.8,2.3,0.7,"$60,410 ",Master's degree,None,None
+      Psychologists,19-3030,Summary,196,208,12,6.1,28.3,12.8,"$85,330 ",,,
+        Industrial-organizational psychologists,19-3032,Line item,10.1,10.6,0.6,5.9,86.3,0.7,"$139,280 ",Master's degree,None,Internship/residency
+        Clinical and counseling psychologists,19-3033,Line item,67.5,75.2,7.7,11.4,5.6,4.1,"$90,130 ",Doctoral or professional degree,None,Internship/residency
+        School psychologists,19-3034,Line item,62.2,63,0.8,1.3,2.7,4.1,"$81,500 ",Master's degree,None,Internship/residency
+"        Psychologists, all other",19-3039,Line item,56.3,59.1,2.9,5.1,73.6,3.9,"$106,420 ",Master's degree,None,Internship/residency
+      Sociologists,19-3041,Line item,3.3,3.4,0.1,4.5,1.7,0.3,"$98,590 ",Master's degree,None,None
+      Urban and regional planners,19-3051,Line item,44.7,46.4,1.7,3.7,7.6,3.7,"$79,540 ",Master's degree,None,None
+      Miscellaneous social scientists and related workers,19-3090,Summary,55.7,57.2,1.5,2.7,0.8,4.7,"$86,070 ",,,
+        Anthropologists and archeologists,19-3091,Line item,8,8.3,0.3,4.2,1.8,0.7,"$63,940 ",Master's degree,None,None
+        Geographers,19-3092,Line item,1.5,1.5,0,1.1,,0.1,"$88,900 ",Bachelor's degree,None,None
+        Historians,19-3093,Line item,3.5,3.6,0.1,3.1,,0.3,"$64,540 ",Master's degree,None,None
+        Political scientists,19-3094,Line item,6.2,6.6,0.4,6.6,,0.6,"$128,020 ",Master's degree,None,None
+"        Social scientists and related workers, all other",19-3099,Line item,36.5,37.2,0.6,1.7,0.6,3,"$88,900 ",Bachelor's degree,None,None
+"    Life, physical, and social science technicians",19-4000,Summary,397,414.1,17.1,4.3,1.8,49.9,"$49,790 ",,,
+      Agricultural and food science technicians,19-4010,Summary,38.8,40.7,1.9,4.9,3.1,5.5,"$46,140 ",,,
+        Agricultural technicians,19-4012,Line item,17.6,18.4,0.8,4.5,2.8,2.5,"$41,760 ",Associate's degree,None,Moderate-term on-the-job training
+        Food science technicians,19-4013,Line item,21.2,22.3,1.1,5.2,3.3,3,"$47,860 ",Associate's degree,None,Moderate-term on-the-job training
+      Biological technicians,19-4021,Line item,81.4,85.3,3.9,4.7,,10.6,"$49,650 ",Bachelor's degree,None,None
+      Chemical technicians,19-4031,Line item,58.8,60.7,1.9,3.2,1.5,7.1,"$50,840 ",Associate's degree,None,Moderate-term on-the-job training
+      Environmental science and geoscience technicians,19-4040,Summary,47.5,49.9,2.3,4.9,,5.1,"$48,640 ",,,
+"        Environmental science and protection technicians, including health",19-4042,Line item,35,37.1,2,5.8,,3.8,"$48,380 ",Associate's degree,None,None
+"        Geological technicians, except hydrologic technicians",19-4043,Line item,9.4,9.6,0.3,3.1,,1,"$48,490 ",Associate's degree,None,Moderate-term on-the-job training
+        Hydrologic technicians,19-4044,Line item,3.1,3.1,0,0.4,,0.3,"$58,360 ",Associate's degree,None,Moderate-term on-the-job training
+      Nuclear technicians,19-4051,Line item,5.9,5.8,-0.1,-1.3,,0.6,"$100,420 ",Associate's degree,None,Moderate-term on-the-job training
+      Social science research assistants,19-4061,Line item,34.4,36,1.6,4.8,3.2,4.4,"$50,470 ",Bachelor's degree,None,None
+      Forest and conservation technicians,19-4071,Line item,31.5,31.7,0.2,0.6,0.6,3.8,"$41,520 ",Associate's degree,None,None
+"      Miscellaneous life, physical, and social science technicians",19-4090,Summary,98.6,103.9,5.4,5.5,3.8,12.8,"$53,370 ",,,
+        Forensic science technicians,19-4092,Line item,18.5,20.8,2.3,12.6,0.8,2.6,"$63,740 ",Bachelor's degree,None,Moderate-term on-the-job training
+"        Life, physical, and social science technicians, all other",19-4099,Line item,80,83.1,3,3.8,4.5,10.2,"$50,290 ",Associate's degree,None,None
+    Occupational health and safety specialists and technicians,19-5000,Summary,138.4,156.1,17.7,12.8,0.8,17.2,"$75,240 ",,,
+      Occupational health and safety specialists,19-5011,Line item,113.8,128.9,15.2,13.3,0.8,14.2,"$78,570 ",Bachelor's degree,None,None
+      Occupational health and safety technicians,19-5012,Line item,24.7,27.2,2.5,10.1,0.9,3,"$57,970 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+  Community and social service occupations,21-0000,Summary,"2,936.50","3,164.20",227.7,7.8,4.1,281.6,"$49,380 ",,,
+"    Counselors, social workers, and other community and social service specialists",21-1000,Summary,"2,422.90","2,649.10",226.2,9.3,3.9,233.4,"$49,330 ",,,
+      Counselors,21-1010,Summary,954.8,"1,068.70",113.9,11.9,7.8,89.2,"$51,180 ",,,
+"        Educational, guidance, and career counselors and advisors",21-1012,Line item,342.4,360.8,18.4,5.4,1.2,26.6,"$60,140 ",Master's degree,None,None
+        Marriage and family therapists,21-1013,Line item,71.2,81.8,10.6,14.9,10.7,5.9,"$56,570 ",Master's degree,None,Internship/residency
+        Rehabilitation counselors,21-1015,Line item,84.8,86.4,1.6,1.9,0.8,6.7,"$39,990 ",Master's degree,None,None
+"        Substance abuse, behavioral disorder, and mental health counselors",21-1018,Line item,388.2,459.6,71.5,18.4,8.4,42,"$49,710 ",Bachelor's degree,None,None
+"        Counselors, all other",21-1019,Line item,68.2,80,11.7,17.2,43.5,8,"$43,390 ",Master's degree,None,None
+      Social workers,21-1020,Summary,728.6,782.5,53.8,7.4,2.2,63.8,"$55,350 ",,,
+"        Child, family, and school social workers",21-1021,Line item,355.3,374.3,18.9,5.3,,29.5,"$50,820 ",Bachelor's degree,None,None
+        Healthcare social workers,21-1022,Line item,191.4,209.8,18.4,9.6,1.4,18.7,"$60,280 ",Master's degree,None,Internship/residency
+        Mental health and substance abuse social workers,21-1023,Line item,113.5,125.5,12,10.6,2.8,9.5,"$51,240 ",Master's degree,None,Internship/residency
+"        Social workers, all other",21-1029,Line item,68.4,72.9,4.5,6.6,15.1,6,"$61,420 ",Bachelor's degree,None,None
+      Miscellaneous community and social service specialists,21-1090,Summary,739.5,797.9,58.4,7.9,0.5,80.5,"$44,050 ",,,
+        Health education specialists,21-1091,Line item,60.4,64.8,4.4,7.2,1.5,6.6,"$59,990 ",Bachelor's degree,None,None
+        Probation officers and correctional treatment specialists,21-1092,Line item,93.9,96.2,2.4,2.5,,7.4,"$59,860 ",Bachelor's degree,None,Moderate-term on-the-job training
+        Social and human service assistants,21-1093,Line item,415.1,450.6,35.6,8.6,0.1,47.4,"$38,520 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Community health workers,21-1094,Line item,67.2,76.6,9.4,14.1,1.7,8,"$46,190 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Community and social service specialists, all other",21-1099,Line item,103,109.7,6.7,6.5,1.3,11.1,"$47,290 ",Bachelor's degree,None,None
+    Religious workers,21-2000,Summary,513.5,515.1,1.5,0.3,4.8,48.2,"$50,680 ",,,
+      Clergy,21-2011,Line item,266.7,268.2,1.5,0.6,8,21.9,"$55,550 ",Bachelor's degree,None,Moderate-term on-the-job training
+"      Directors, religious activities and education",21-2021,Line item,171,170.6,-0.4,-0.2,0.8,16.3,"$49,380 ",Bachelor's degree,Less than 5 years,None
+"      Religious workers, all other",21-2099,Line item,75.8,76.2,0.4,0.6,2.5,10,"$39,370 ",Bachelor's degree,None,None
+  Legal occupations,23-0000,Summary,"1,362.40","1,442.30",80,5.9,8.7,91.7,"$95,170 ",,,
+"    Lawyers, judges, and related workers",23-1000,Summary,894.5,958.5,64,7.2,12,42.2,"$133,510 ",,,
+      Lawyers and judicial law clerks,23-1010,Summary,842.6,905.3,62.7,7.4,12.6,40.1,"$134,140 ",,,
+        Lawyers,23-1011,Line item,826.3,888.7,62.4,7.5,12.8,39.1,"$135,740 ",Doctoral or professional degree,None,None
+        Judicial law clerks,23-1012,Line item,16.3,16.6,0.4,2.3,,1,"$57,490 ",Doctoral or professional degree,None,None
+"      Judges, magistrates, and other judicial workers",23-1020,Summary,51.9,53.2,1.3,2.4,1.9,2.1,"$113,600 ",,,
+"        Administrative law judges, adjudicators, and hearing officers",23-1021,Line item,13.2,13.4,0.1,1.1,,0.5,"$94,990 ",Doctoral or professional degree,5 years or more,Short-term on-the-job training
+"        Arbitrators, mediators, and conciliators",23-1022,Line item,9.1,9.6,0.5,5,10.5,0.4,"$64,030 ",Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+"        Judges, magistrate judges, and magistrates",23-1023,Line item,29.6,30.2,0.7,2.2,,1.2,"$151,030 ",Doctoral or professional degree,5 years or more,Short-term on-the-job training
+    Legal support workers,23-2000,Summary,467.9,483.8,16,3.4,2.5,49.4,"$58,810 ",,,
+      Paralegals and legal assistants,23-2011,Line item,354.3,369.1,14.8,4.2,1.4,38,"$59,200 ",Associate's degree,None,None
+      Miscellaneous legal support workers,23-2090,Summary,113.6,114.7,1.1,1,6,11.4,"$56,850 ",,,
+"        Title examiners, abstractors, and searchers",23-2093,Line item,62.2,63.3,1,1.7,6.3,6,"$50,490 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Legal support workers, all other",23-2099,Line item,51.4,51.5,0.1,0.2,5.6,5.4,"$62,340 ",Associate's degree,None,None
+  Educational instruction and library occupations,25-0000,Summary,"9,354.10","9,570.60",216.5,2.3,1.9,857.6,"$57,490 ",,,
+    Postsecondary teachers,25-1000,Summary,"1,709.80","1,826.80",117,6.8,0.2,149.2,"$79,080 ",,,
+"      Business teachers, postsecondary",25-1011,Line item,99.9,106.9,6.9,6.9,0.2,8.7,"$88,790 ",Doctoral or professional degree,None,None
+"      Math and computer science teachers, postsecondary",25-1020,Summary,98,102,4,4.1,0.1,8.2,"$79,810 ",,,
+"        Computer science teachers, postsecondary",25-1021,Line item,42,44.3,2.2,5.3,0.2,3.6,"$84,760 ",Doctoral or professional degree,None,None
+"        Mathematical science teachers, postsecondary",25-1022,Line item,55.9,57.7,1.8,3.2,0.1,4.6,"$77,420 ",Doctoral or professional degree,None,None
+"      Engineering and architecture teachers, postsecondary",25-1030,Summary,53.7,58.2,4.5,8.4,0.2,4.8,"$102,810 ",,,
+"        Architecture teachers, postsecondary",25-1031,Line item,8.2,8.5,0.3,3.8,,0.7,"$93,220 ",Doctoral or professional degree,None,None
+"        Engineering teachers, postsecondary",25-1032,Line item,45.5,49.7,4.2,9.3,0.1,4.1,"$103,550 ",Doctoral or professional degree,None,None
+"      Life sciences teachers, postsecondary",25-1040,Summary,74,79.9,5.9,8,0.2,6.6,"$82,740 ",,,
+"        Agricultural sciences teachers, postsecondary",25-1041,Line item,10.1,10.5,0.5,4.8,,0.8,"$85,860 ",Doctoral or professional degree,None,None
+"        Biological science teachers, postsecondary",25-1042,Line item,62.4,67.7,5.3,8.6,0.2,5.6,"$81,650 ",Doctoral or professional degree,None,None
+"        Forestry and conservation science teachers, postsecondary",25-1043,Line item,1.5,1.6,0.1,5.2,,0.1,"$96,500 ",Doctoral or professional degree,None,None
+"      Physical sciences teachers, postsecondary",25-1050,Summary,63.5,65.9,2.4,3.7,0.2,5.3,"$83,700 ",,,
+"        Atmospheric, earth, marine, and space sciences teachers, postsecondary",25-1051,Line item,13.6,14.1,0.5,3.6,,1.1,"$97,770 ",Doctoral or professional degree,None,None
+"        Chemistry teachers, postsecondary",25-1052,Line item,25.9,26.8,0.9,3.5,,2.1,"$80,720 ",Doctoral or professional degree,None,None
+"        Environmental science teachers, postsecondary",25-1053,Line item,7.9,8.2,0.3,4.2,,0.7,"$83,040 ",Doctoral or professional degree,None,None
+"        Physics teachers, postsecondary",25-1054,Line item,16.2,16.8,0.6,3.8,,1.3,"$86,550 ",Doctoral or professional degree,None,None
+"      Social sciences teachers, postsecondary",25-1060,Summary,141.4,147.3,5.9,4.2,0.2,11.8,"$80,910 ",,,
+"        Anthropology and archeology teachers, postsecondary",25-1061,Line item,6.2,6.4,0.2,4,,0.5,"$85,000 ",Doctoral or professional degree,None,None
+"        Area, ethnic, and cultural studies teachers, postsecondary",25-1062,Line item,11.9,12.4,0.5,3.9,,1,"$80,910 ",Doctoral or professional degree,None,None
+"        Economics teachers, postsecondary",25-1063,Line item,14.8,15.4,0.6,3.8,,1.2,"$103,930 ",Doctoral or professional degree,None,None
+"        Geography teachers, postsecondary",25-1064,Line item,4.1,4.3,0.2,4.4,,0.3,"$81,920 ",Doctoral or professional degree,None,None
+"        Political science teachers, postsecondary",25-1065,Line item,19.3,20,0.7,3.7,,1.6,"$83,770 ",Doctoral or professional degree,None,None
+"        Psychology teachers, postsecondary",25-1066,Line item,50.9,53.6,2.7,5.2,0.2,4.3,"$78,810 ",Doctoral or professional degree,None,None
+"        Sociology teachers, postsecondary",25-1067,Line item,15,15.5,0.6,3.7,,1.2,"$78,970 ",Doctoral or professional degree,None,None
+"        Social sciences teachers, postsecondary, all other",25-1069,Line item,19.2,19.7,0.5,2.6,,1.6,"$75,390 ",Doctoral or professional degree,None,None
+"      Health teachers, postsecondary",25-1070,Summary,348.7,414.5,65.8,18.9,0.2,36.3,"$95,580 ",,,
+"        Health specialties teachers, postsecondary",25-1071,Line item,262.8,313,50.2,19.1,0.2,27.4,"$100,300 ",Doctoral or professional degree,Less than 5 years,None
+"        Nursing instructors and teachers, postsecondary",25-1072,Line item,85.9,101.5,15.6,18.2,0.2,8.8,"$78,580 ",Doctoral or professional degree,Less than 5 years,None
+"      Education and library science teachers, postsecondary",25-1080,Summary,79.7,82.7,3,3.8,0.2,6.6,"$67,920 ",,,
+"        Education teachers, postsecondary",25-1081,Line item,74.3,77.1,2.8,3.7,0.2,6.2,"$66,930 ",Doctoral or professional degree,Less than 5 years,None
+"        Library science teachers, postsecondary",25-1082,Line item,5.4,5.6,0.2,4.1,,0.4,"$76,370 ",Doctoral or professional degree,None,None
+"      Law, criminal justice, and social work teachers, postsecondary",25-1110,Summary,51.7,53.4,1.7,3.2,0.2,4.3,"$77,580 ",,,
+"        Criminal justice and law enforcement teachers, postsecondary",25-1111,Line item,16.5,16.9,0.4,2.7,,1.3,"$64,990 ",Doctoral or professional degree,None,None
+"        Law teachers, postsecondary",25-1112,Line item,19.8,20.4,0.6,3,0.3,1.6,"$108,860 ",Doctoral or professional degree,Less than 5 years,None
+"        Social work teachers, postsecondary",25-1113,Line item,15.5,16.1,0.6,4,,1.3,"$66,510 ",Doctoral or professional degree,None,None
+"      Arts, communications, history, and humanities teachers, postsecondary",25-1120,Summary,304.1,311.4,7.4,2.4,0.2,24.7,"$76,850 ",,,
+"        Art, drama, and music teachers, postsecondary",25-1121,Line item,123.9,127.8,3.9,3.2,0.3,10.2,"$77,280 ",Master's degree,None,None
+"        Communications teachers, postsecondary",25-1122,Line item,33.6,34.8,1.2,3.4,0.2,2.8,"$76,250 ",Doctoral or professional degree,None,None
+"        English language and literature teachers, postsecondary",25-1123,Line item,70.1,70.9,0.9,1.2,0.1,5.6,"$74,280 ",Doctoral or professional degree,None,None
+"        Foreign language and literature teachers, postsecondary",25-1124,Line item,24.7,25,0.3,1.4,0.2,2,"$76,030 ",Doctoral or professional degree,None,None
+"        History teachers, postsecondary",25-1125,Line item,22.8,23.1,0.3,1.3,,1.8,"$79,400 ",Doctoral or professional degree,None,None
+"        Philosophy and religion teachers, postsecondary",25-1126,Line item,29.1,29.9,0.8,2.7,0.3,2.4,"$78,780 ",Doctoral or professional degree,None,None
+      Miscellaneous postsecondary teachers,25-1190,Summary,395.1,404.6,9.5,2.4,0.2,32.1,"$66,390 ",,,
+"        Family and consumer sciences teachers, postsecondary",25-1192,Line item,2.9,3,0.1,3.9,,0.2,"$76,440 ",Doctoral or professional degree,None,None
+"        Recreation and fitness studies teachers, postsecondary",25-1193,Line item,16.3,16.8,0.5,3.3,,1.3,"$72,650 ",Doctoral or professional degree,None,None
+"        Career/technical education teachers, postsecondary",25-1194,Line item,113,112.5,-0.6,-0.5,0.3,8.7,"$59,840 ",Bachelor's degree,Less than 5 years,None
+"        Postsecondary teachers, all other",25-1199,Line item,262.8,272.3,9.4,3.6,0.1,21.8,"$76,920 ",Doctoral or professional degree,None,None
+"    Preschool, elementary, middle, secondary, and special education teachers",25-2000,Summary,"4,355.90","4,402.10",46.1,1.1,0.5,314.3,"$61,180 ",,,
+      Preschool and kindergarten teachers,25-2010,Summary,635.7,653.6,17.9,2.8,1.4,69.3,"$37,000 ",,,
+"        Preschool teachers, except special education",25-2011,Line item,512.3,529.6,17.2,3.4,1.7,56.3,"$35,330 ",Associate's degree,None,None
+"        Kindergarten teachers, except special education",25-2012,Line item,123.4,124.1,0.7,0.5,0.3,13,"$60,490 ",Bachelor's degree,None,None
+      Elementary and middle school teachers,25-2020,Summary,"2,061.60","2,076.70",15.1,0.7,0.4,139,"$61,730 ",,,
+"        Elementary school teachers, except special education",25-2021,Line item,"1,425.00","1,435.00",10,0.7,0.4,96,"$61,690 ",Bachelor's degree,None,None
+"        Middle school teachers, except special and career/technical education",25-2022,Line item,625.5,630.6,5.1,0.8,0.4,42.2,"$61,810 ",Bachelor's degree,None,None
+"        Career/technical education teachers, middle school",25-2023,Line item,11.1,11.1,0,0,,0.7,"$62,630 ",Bachelor's degree,Less than 5 years,None
+      Secondary school teachers,25-2030,Summary,"1,160.20","1,171.10",10.9,0.9,0.4,72.5,"$62,360 ",,,
+"        Secondary school teachers, except special and career/technical education",25-2031,Line item,"1,072.30","1,083.40",11.1,1,0.4,67.1,"$62,360 ",Bachelor's degree,None,None
+"        Career/technical education teachers, secondary school",25-2032,Line item,88,87.7,-0.2,-0.2,0.1,5.4,"$62,500 ",Bachelor's degree,Less than 5 years,None
+      Special education teachers,25-2050,Summary,498.4,500.7,2.2,0.4,0.1,33.5,"$62,950 ",,,
+"        Special education teachers, preschool",25-2051,Line item,23.8,24.3,0.5,1.9,,1.6,"$62,240 ",Bachelor's degree,None,None
+"        Special education teachers, kindergarten and elementary school",25-2052,Line item,194.7,194.6,-0.1,0,0,12.9,"$62,390 ",Bachelor's degree,None,None
+"        Special education teachers, middle school",25-2057,Line item,82.8,82.6,-0.1,-0.2,,5.5,"$62,990 ",Bachelor's degree,None,None
+"        Special education teachers, secondary school",25-2058,Line item,153.2,154,0.7,0.5,0,10.3,"$63,560 ",Bachelor's degree,None,None
+"        Special education teachers, all other",25-2059,Line item,43.9,45.2,1.3,2.9,0.2,3.1,"$63,950 ",Bachelor's degree,None,None
+    Other teachers and instructors,25-3000,Summary,"1,190.10","1,223.80",33.7,2.8,11.6,158.4,"$38,510 ",,,
+"      Adult basic education, adult secondary education, and english as a second language instructors",25-3011,Line item,42.2,36.9,-5.3,-12.6,7,4.2,"$58,590 ",Bachelor's degree,None,None
+      Self-enrichment teachers,25-3021,Line item,354.7,366.1,11.4,3.2,19.4,44.1,"$44,110 ",High school diploma or equivalent,Less than 5 years,None
+"      Substitute teachers, short-term",25-3031,Line item,421.6,438.9,17.4,4.1,4.5,53,"$35,250 ",Bachelor's degree,None,None
+      Tutors,25-3041,Line item,223.7,231.1,7.4,3.3,14.9,39.1,"$36,680 ","Some college, no degree",None,None
+"      Teachers and instructors, all other",25-3099,Line item,148,150.9,2.9,1.9,9.9,18.1,"$61,250 ",Bachelor's degree,None,None
+"    Librarians, curators, and archivists",25-4000,Summary,257.6,260.8,3.2,1.2,1.3,30.9,"$51,220 ",,,
+"      Archivists, curators, and museum technicians",25-4010,Summary,37.7,41.5,3.7,9.9,8.6,5,"$53,420 ",,,
+        Archivists,25-4011,Line item,9.4,10.2,0.8,8.2,7.5,1.2,"$58,640 ",Master's degree,None,None
+        Curators,25-4012,Line item,13.9,15.4,1.5,11.1,9.3,1.9,"$60,380 ",Master's degree,None,None
+        Museum technicians and conservators,25-4013,Line item,14.4,15.9,1.4,9.9,8.7,1.9,"$47,270 ",Bachelor's degree,None,None
+      Librarians and media collections specialists,25-4022,Line item,141.2,145.5,4.3,3,,13.7,"$61,660 ",Master's degree,None,None
+      Library technicians,25-4031,Line item,78.6,73.8,-4.8,-6.1,,12.2,"$37,600 ",Postsecondary nondegree award,None,None
+    Other educational instruction and library occupations,25-9000,Summary,"1,840.70","1,857.20",16.4,0.9,0.5,204.8,"$35,520 ",,,
+      Farm and home management educators,25-9021,Line item,9.7,9.5,-0.2,-2,,0.8,"$53,450 ",Master's degree,None,None
+      Instructional coordinators,25-9031,Line item,216.6,222,5.3,2.5,1.2,19.2,"$66,490 ",Master's degree,5 years or more,None
+      Teaching assistants,25-9040,Summary,"1,469.10","1,477.10",8,0.5,0.3,171.9,"$31,320 ",,,
+"        Teaching assistants, postsecondary",25-9044,Line item,170.2,177.3,7.1,4.2,0.4,20.9,"$38,050 ",Bachelor's degree,None,None
+"        Teaching assistants, except postsecondary",25-9045,Line item,"1,298.90","1,299.80",0.9,0.1,0.3,151,"$30,920 ","Some college, no degree",None,None
+"      Educational instruction and library workers, all other",25-9099,Line item,145.3,148.6,3.3,2.3,0.9,12.9,"$47,650 ",Bachelor's degree,None,None
+"  Arts, design, entertainment, sports, and media occupations",27-0000,Summary,"3,071.10","3,187.00",115.9,3.8,26.2,316.9,"$58,030 ",,,
+    Art and design workers,27-1000,Summary,991.2,"1,020.70",29.4,3,29.8,95.8,"$51,150 ",,,
+      Artists and related workers,27-1010,Summary,278.9,296.9,18,6.5,57.4,28.7,"$95,220 ",,,
+        Art directors,27-1011,Line item,135.1,143.2,8.2,6.1,58.1,13.8,"$105,180 ",Bachelor's degree,5 years or more,None
+        Craft artists,27-1012,Line item,11.5,12,0.4,3.9,59.1,1.1,"$38,150 ",No formal educational credential,None,Long-term on-the-job training
+"        Fine artists, including painters, sculptors, and illustrators",27-1013,Line item,29.1,30.6,1.5,5.2,58.5,2.9,"$57,560 ",Bachelor's degree,None,Long-term on-the-job training
+        Special effects artists and animators,27-1014,Line item,89.3,96.6,7.4,8.2,57.9,9.4,"$98,950 ",Bachelor's degree,None,None
+"        Artists and related workers, all other",27-1019,Line item,14,14.5,0.5,3.4,43.3,1.4,"$69,760 ",No formal educational credential,None,Long-term on-the-job training
+      Designers,27-1020,Summary,712.3,723.8,11.4,1.6,19,67.1,"$46,990 ",,,
+        Commercial and industrial designers,27-1021,Line item,32.4,33,0.7,2,5.1,2.2,"$75,910 ",Bachelor's degree,None,None
+        Fashion designers,27-1022,Line item,24.9,25.7,0.8,3.3,17,2.3,"$76,700 ",Bachelor's degree,None,None
+        Floral designers,27-1023,Line item,54.5,44.7,-9.8,-18,20.5,4.7,"$33,160 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Graphic designers,27-1024,Line item,270.9,279.8,8.9,3.3,18.7,22.8,"$57,990 ",Bachelor's degree,None,None
+        Interior designers,27-1025,Line item,94.9,98.7,3.7,3.9,32,9,"$61,590 ",Bachelor's degree,None,None
+        Merchandise displayers and window trimmers,27-1026,Line item,173.4,177.5,4.1,2.4,,20.8,"$35,380 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Set and exhibit designers,27-1027,Line item,27.8,29.8,2,7.3,59.2,2.5,"$59,990 ",Bachelor's degree,None,None
+"        Designers, all other",27-1029,Line item,33.5,34.6,1.1,3.1,62,2.8,"$65,390 ",Bachelor's degree,None,None
+"    Entertainers and performers, sports and related workers",27-2000,Summary,857.1,906.7,49.6,5.8,23.8,106.8,"$52,940 ",,,
+"      Actors, producers, and directors",27-2010,Summary,253.4,267.6,14.2,5.6,14,25.2,"$75,440 ",,,
+        Actors,27-2011,Line item,78.1,80.6,2.5,3.2,26.3,9.3,,"Some college, no degree",None,Long-term on-the-job training
+        Producers and directors,27-2012,Line item,175.3,187,11.7,6.7,8.5,16,"$85,320 ",Bachelor's degree,Less than 5 years,None
+"      Athletes, coaches, umpires, and related workers",27-2020,Summary,309.6,338.2,28.6,9.2,12.1,45.4,"$45,080 ",,,
+        Athletes and sports competitors,27-2021,Line item,14,15.2,1.3,9.1,7.8,1.9,"$94,270 ",No formal educational credential,None,Long-term on-the-job training
+        Coaches and scouts,27-2022,Line item,275.2,300.5,25.3,9.2,10.7,38.4,"$44,890 ",Bachelor's degree,None,None
+"        Umpires, referees, and other sports officials",27-2023,Line item,20.4,22.4,2,9.7,33.9,5,"$36,010 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Dancers and choreographers,27-2030,Summary,18.4,19.4,1,5.2,19.2,3,"$47,050 ",,,
+        Dancers,27-2031,Line item,11.5,12.2,0.6,5.3,19.3,1.9,,No formal educational credential,None,Long-term on-the-job training
+        Choreographers,27-2032,Line item,6.9,7.3,0.3,5,19,1.1,"$50,990 ",High school diploma or equivalent,5 years or more,Long-term on-the-job training
+"      Musicians, singers, and related workers",27-2040,Summary,225.3,228,2.7,1.2,42.2,27.7,,,,
+        Music directors and composers,27-2041,Line item,51.8,52.4,0.6,1.1,22.4,5.1,"$62,940 ",Bachelor's degree,Less than 5 years,None
+        Musicians and singers,27-2042,Line item,173.5,175.6,2.1,1.2,48.1,22.6,,No formal educational credential,None,Long-term on-the-job training
+"      Miscellaneous entertainers and performers, sports and related workers",27-2090,Summary,50.3,53.5,3.2,6.3,64.9,5.5,,,,
+"        Disc jockeys, except radio",27-2091,Line item,23.8,24.8,1,4.2,76.3,2,,High school diploma or equivalent,None,Short-term on-the-job training
+"        Entertainers and performers, sports and related workers, all other",27-2099,Line item,26.5,28.7,2.2,8.2,54.6,3.4,,No formal educational credential,None,Short-term on-the-job training
+    Media and communication workers,27-3000,Summary,826.2,848.1,21.9,2.6,18.5,77.6,"$66,240 ",,,
+      Broadcast announcers and radio disc jockeys,27-3011,Line item,28,24.8,-3.2,-11.4,2.8,2.4,"$41,750 ",Bachelor's degree,None,None
+"      News analysts, reporters, and journalists",27-3023,Line item,58.5,56.6,-1.9,-3.3,24.7,6,"$55,960 ",Bachelor's degree,None,None
+      Public relations specialists,27-3031,Line item,297.1,315.1,18,6.1,1.1,25.8,"$67,440 ",Bachelor's degree,None,None
+      Writers and editors,27-3040,Summary,326.7,331,4.3,1.3,34.4,31.8,"$75,080 ",,,
+        Editors,27-3041,Line item,122.1,117.3,-4.9,-4,12.6,11.6,"$73,080 ",Bachelor's degree,Less than 5 years,None
+        Technical writers,27-3042,Line item,53.3,57,3.7,6.9,5.8,4.8,"$79,960 ",Bachelor's degree,Less than 5 years,Short-term on-the-job training
+        Writers and authors,27-3043,Line item,151.2,156.8,5.6,3.7,62,15.5,"$73,150 ",Bachelor's degree,None,Long-term on-the-job training
+      Miscellaneous media and communication workers,27-3090,Summary,115.9,120.6,4.7,4,18.8,11.6,"$58,180 ",,,
+        Interpreters and translators,27-3091,Line item,68.7,71.7,3,4.3,21.4,7.2,"$53,640 ",Bachelor's degree,None,None
+        Court reporters and simultaneous captioners,27-3092,Line item,21.3,21.9,0.6,2.8,30.8,2.1,"$63,560 ",Postsecondary nondegree award,None,Short-term on-the-job training
+"        Media and communication workers, all other",27-3099,Line item,25.8,26.9,1.1,4.3,2,2.3,"$65,000 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Media and communication equipment workers,27-4000,Summary,396.5,411.5,15,3.8,38.5,36.7,"$52,840 ",,,
+"      Broadcast, sound, and lighting technicians",27-4010,Summary,142.8,145.3,2.5,1.7,13.5,12.9,"$53,960 ",,,
+        Audio and video technicians,27-4011,Line item,74.8,78.3,3.5,4.7,12.5,7.1,"$50,660 ",Postsecondary nondegree award,None,Short-term on-the-job training
+        Broadcast technicians,27-4012,Line item,39.9,39.4,-0.4,-1.1,15,3.4,"$60,700 ",Associate's degree,None,Short-term on-the-job training
+        Sound engineering technicians,27-4014,Line item,17.6,17.4,-0.2,-1.2,13.8,1.5,"$60,670 ",Postsecondary nondegree award,None,Short-term on-the-job training
+        Lighting technicians,27-4015,Line item,10.5,10.2,-0.4,-3.4,14.8,0.9,"$61,650 ",Postsecondary nondegree award,None,Short-term on-the-job training
+      Photographers,27-4021,Line item,148.9,155,6.1,4.1,68.6,13.9,"$40,170 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Television, video, and film camera operators and editors",27-4030,Summary,87.5,93.3,5.8,6.7,34,8.2,"$62,420 ",,,
+"        Camera operators, television, video, and film",27-4031,Line item,36.5,37.5,1,2.8,33.3,3.2,"$58,230 ",Bachelor's degree,None,None
+        Film and video editors,27-4032,Line item,51,55.8,4.8,9.4,34.4,5,"$63,520 ",Bachelor's degree,None,None
+"      Media and communication equipment workers, all other",27-4099,Line item,17.3,17.9,0.6,3.4,9.4,1.6,"$69,490 ",High school diploma or equivalent,None,Short-term on-the-job training
+  Healthcare practitioners and technical occupations,29-0000,Summary,"9,481.00","10,243.70",762.7,8,2.3,621.6,"$77,760 ",,,
+    Healthcare diagnosing or treating practitioners,29-1000,Summary,"6,305.60","6,848.40",542.7,8.6,3,365.1,"$93,710 ",,,
+      Chiropractors,29-1011,Line item,55,59.8,4.9,8.8,31.1,2.6,"$75,380 ",Doctoral or professional degree,None,None
+      Dentists,29-1020,Summary,155,161.8,6.8,4.4,10.6,5.1,"$159,530 ",,,
+"        Dentists, general",29-1021,Line item,136.7,142.7,6,4.4,10.8,4.5,"$155,040 ",Doctoral or professional degree,None,None
+        Oral and maxillofacial surgeons,29-1022,Line item,4.9,5.1,0.2,5,10.8,0.2,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Orthodontists,29-1023,Line item,7.2,7.5,0.3,4.5,10.9,0.2,"$174,360 ",Doctoral or professional degree,None,Internship/residency
+        Prosthodontists,29-1024,Line item,0.4,0.5,0,5.7,,0,,Doctoral or professional degree,None,Internship/residency
+"        Dentists, all other specialists",29-1029,Line item,5.8,6,0.2,2.7,6.4,0.2,"$212,740 ",Doctoral or professional degree,None,Internship/residency
+      Dietitians and nutritionists,29-1031,Line item,78.6,83.8,5.2,6.6,8.2,5.6,"$66,450 ",Bachelor's degree,None,Internship/residency
+      Optometrists,29-1041,Line item,43.4,47.3,3.8,8.8,6.7,1.7,"$125,590 ",Doctoral or professional degree,None,None
+      Pharmacists,29-1051,Line item,334.2,342.9,8.7,2.6,0.9,13.4,"$132,750 ",Doctoral or professional degree,None,None
+      Physician assistants,29-1071,Line item,148,187.3,39.3,26.5,2.6,12.2,"$126,010 ",Master's degree,None,None
+      Podiatrists,29-1081,Line item,10.6,10.7,0.1,1,9.8,0.3,"$148,720 ",Doctoral or professional degree,None,Internship/residency
+      Therapists,29-1120,Summary,782.4,893.3,110.9,14.2,6.5,51.7,"$83,960 ",,,
+        Occupational therapists,29-1122,Line item,139.6,155.6,16.1,11.5,0.3,9.6,"$93,180 ",Master's degree,None,None
+        Physical therapists,29-1123,Line item,246.8,284.1,37.3,15.1,4.1,13.9,"$97,720 ",Doctoral or professional degree,None,None
+        Radiation therapists,29-1124,Line item,15.9,16.3,0.4,2.4,,0.7,"$89,530 ",Associate's degree,None,None
+        Recreational therapists,29-1125,Line item,16.8,17.4,0.6,3.6,0.4,1.3,"$51,330 ",Bachelor's degree,None,None
+        Respiratory therapists,29-1126,Line item,133.1,149.8,16.7,12.5,,8.6,"$70,540 ",Associate's degree,None,None
+        Speech-language pathologists,29-1127,Line item,171.4,204.5,33.1,19.3,3.3,13.2,"$84,140 ",Master's degree,None,Internship/residency
+        Exercise physiologists,29-1128,Line item,16.5,18.2,1.7,10.2,58.8,1.2,"$51,350 ",Bachelor's degree,None,None
+"        Therapists, all other",29-1129,Line item,42.3,47.5,5.2,12.2,58.9,3.2,"$60,800 ",Bachelor's degree,None,None
+      Veterinarians,29-1131,Line item,89.5,107.2,17.7,19.7,10.1,5,"$103,260 ",Doctoral or professional degree,None,None
+      Registered nurses,29-1141,Line item,"3,172.50","3,349.90",177.4,5.6,0.5,193.1,"$81,220 ",Bachelor's degree,None,None
+      Nurse anesthetists,29-1151,Line item,49.4,53.8,4.5,9,3.8,2.5,"$203,090 ",Master's degree,None,None
+      Nurse midwives,29-1161,Line item,8.2,8.7,0.5,6.4,0.8,0.4,"$120,880 ",Master's degree,None,None
+      Nurse practitioners,29-1171,Line item,266.3,384.9,118.6,44.5,0.7,26.3,"$121,610 ",Master's degree,None,None
+      Audiologists,29-1181,Line item,14.4,15.9,1.5,10.6,,0.9,"$82,680 ",Doctoral or professional degree,None,None
+      Physicians,29-1210,Summary,757.4,780.9,23.6,3.1,4.6,22.7,"$227,180 ",,,
+        Anesthesiologists,29-1211,Line item,40,41.1,1,2.6,5.1,1.2,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Cardiologists,29-1212,Line item,18,18.6,0.6,3.1,5.1,0.5,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Dermatologists,29-1213,Line item,12.4,12.8,0.4,3.1,5.2,0.4,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Emergency medicine physicians,29-1214,Line item,31.3,32.2,0.9,2.8,4.9,0.9,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Family medicine physicians,29-1215,Line item,108,112,4,3.7,4.9,3.3,"$211,300 ",Doctoral or professional degree,None,Internship/residency
+        General internal medicine physicians,29-1216,Line item,72.6,74.4,1.8,2.5,4.7,2.1,"$214,460 ",Doctoral or professional degree,None,Internship/residency
+        Neurologists,29-1217,Line item,12.2,12.5,0.4,3.2,5,0.4,"$224,260 ",Doctoral or professional degree,None,Internship/residency
+        Obstetricians and gynecologists,29-1218,Line item,22.9,23.4,0.5,2.2,5,0.7,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+"        Pediatricians, general",29-1221,Line item,35.9,36.2,0.3,0.9,5,1,"$190,350 ",Doctoral or professional degree,None,Internship/residency
+"        Physicians, pathologists",29-1222,Line item,13.2,13.9,0.6,4.6,4.7,0.4,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Psychiatrists,29-1223,Line item,28.6,30.5,1.9,6.7,4.1,1,"$226,880 ",Doctoral or professional degree,None,Internship/residency
+        Radiologists,29-1224,Line item,31.2,32.4,1.1,3.6,5.1,1,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+"        Physicians, all other",29-1229,Line item,330.9,341,10,3,4.2,9.9,"$223,410 ",Doctoral or professional degree,None,Internship/residency
+      Surgeons,29-1240,Summary,59.6,60.6,1,1.7,0.5,1.5,"$239,200 ",,,
+"        Ophthalmologists, except pediatric",29-1241,Line item,12.8,13.3,0.5,3.6,0.5,0.3,"$219,810 ",Doctoral or professional degree,None,Internship/residency
+"        Orthopedic surgeons, except pediatric",29-1242,Line item,19.4,19.7,0.3,1.6,0.5,0.5,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+        Pediatric surgeons,29-1243,Line item,0.8,0.8,0,1,,0,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+"        Surgeons, all other",29-1249,Line item,26.5,26.8,0.2,0.8,0.5,0.6,"$239,200 ",Doctoral or professional degree,None,Internship/residency
+      Miscellaneous healthcare diagnosing or treating practitioners,29-1290,Summary,281.3,299.6,18.4,6.5,8.6,20.2,"$81,950 ",,,
+        Acupuncturists,29-1291,Line item,26.6,28,1.4,5.3,69.4,1.8,"$72,220 ",Master's degree,None,None
+        Dental hygienists,29-1292,Line item,219.4,235.7,16.3,7.4,1.2,16.4,"$81,400 ",Associate's degree,None,None
+"        Healthcare diagnosing or treating practitioners, all other",29-1299,Line item,35.2,35.9,0.7,2,8.4,2,"$106,230 ",Master's degree,None,None
+    Health technologists and technicians,29-2000,Summary,"3,036.20","3,241.30",205.1,6.8,0.7,246.2,"$48,560 ",,,
+      Clinical laboratory technologists and technicians,29-2010,Line item,342.9,359.7,16.8,4.9,0.1,24,"$57,380 ",Bachelor's degree,None,None
+      Diagnostic related technologists and technicians,29-2030,Summary,428.5,458.2,29.8,6.9,2.3,26.3,"$74,550 ",,,
+        Cardiovascular technologists and technicians,29-2031,Line item,58.9,61.1,2.2,3.7,3.5,3.9,"$63,020 ",Associate's degree,None,None
+        Diagnostic medical sonographers,29-2032,Line item,83.8,95.8,12,14.3,1.7,5.7,"$81,350 ",Associate's degree,None,None
+        Nuclear medicine technologists,29-2033,Line item,18.1,18.2,0.1,0.4,5,0.8,"$85,300 ",Associate's degree,None,None
+        Radiologic technologists and technicians,29-2034,Line item,222.8,235,12.2,5.5,1.3,13.1,"$65,140 ",Associate's degree,None,None
+        Magnetic resonance imaging technologists,29-2035,Line item,41.4,44.6,3.2,7.7,5.6,2.6,"$80,090 ",Associate's degree,Less than 5 years,None
+        Medical dosimetrists,29-2036,Line item,3.5,3.6,0.1,3.4,4.9,0.2,"$128,970 ",Bachelor's degree,None,None
+      Emergency medical technicians and paramedics,29-2040,Summary,269,283.6,14.6,5.4,0.3,18.1,"$39,410 ",,,
+        Emergency medical technicians,29-2042,Line item,170.7,180,9.3,5.4,,13.1,"$36,680 ",Postsecondary nondegree award,None,None
+        Paramedics,29-2043,Line item,98.3,103.6,5.3,5.4,0.7,5.1,"$49,090 ",Postsecondary nondegree award,Less than 5 years,None
+      Health practitioner support technologists and technicians,29-2050,Summary,885.6,962.1,76.6,8.6,0.3,87.7,"$38,780 ",,,
+        Dietetic technicians,29-2051,Line item,20.2,20.9,0.7,3.5,,2.3,"$33,960 ",Associate's degree,None,None
+        Pharmacy technicians,29-2052,Line item,459.6,485.5,25.9,5.6,0.1,44.9,"$37,790 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Psychiatric technicians,29-2053,Line item,107.1,117.5,10.4,9.7,0.9,10.2,"$37,380 ",Postsecondary nondegree award,Less than 5 years,Short-term on-the-job training
+        Surgical technologists,29-2055,Line item,109.2,115.2,5.9,5.4,,7.2,"$55,960 ",Postsecondary nondegree award,None,None
+        Veterinary technologists and technicians,29-2056,Line item,122.9,148.1,25.2,20.5,1,14.8,"$38,240 ",Associate's degree,None,None
+        Ophthalmic medical technicians,29-2057,Line item,66.5,74.9,8.4,12.7,,8.4,"$38,860 ",Postsecondary nondegree award,None,None
+      Licensed practical and licensed vocational nurses,29-2061,Line item,655,689.9,34.9,5.3,0.8,54.4,"$54,620 ",Postsecondary nondegree award,None,None
+      Medical records specialists,29-2072,Line item,194.3,210.9,16.5,8.5,1,15,"$47,180 ",Postsecondary nondegree award,None,None
+"      Opticians, dispensing",29-2081,Line item,73.3,75.2,2,2.7,0.5,6.4,"$39,610 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Miscellaneous health technologists and technicians,29-2090,Summary,187.7,201.7,14,7.5,0.9,14.3,"$45,920 ",,,
+        Orthotists and prosthetists,29-2091,Line item,9.5,10.9,1.5,15.4,0.9,0.8,"$77,070 ",Master's degree,None,Internship/residency
+        Hearing aid specialists,29-2092,Line item,10.2,11.7,1.5,14.5,1,0.9,"$59,020 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Health technologists and technicians, all other",29-2099,Line item,168,179.1,11.1,6.6,0.9,12.6,"$44,990 ",Postsecondary nondegree award,None,None
+    Other healthcare practitioners and technical occupations,29-9000,Summary,139.2,154.1,14.9,10.7,3.5,10.3,"$57,740 ",,,
+      Health information technologists and medical registrars,29-9021,Line item,37.9,44.1,6.2,16.5,3.9,3.1,"$58,250 ",Associate's degree,None,None
+      Miscellaneous health practitioners and technical workers,29-9090,Summary,101.3,110,8.6,8.5,3.4,7.2,"$57,640 ",,,
+        Athletic trainers,29-9091,Line item,33.8,38.5,4.8,14.1,3.1,2.7,"$53,840 ",Master's degree,None,None
+        Genetic counselors,29-9092,Line item,3.5,4,0.6,16.1,4,0.3,"$89,990 ",Master's degree,None,None
+        Surgical assistants,29-9093,Line item,19.7,20.7,1,5.2,4.2,1.3,"$57,290 ",Postsecondary nondegree award,None,None
+"        Healthcare practitioners and technical workers, all other",29-9099,Line item,44.4,46.7,2.3,5.2,3.1,3,"$60,160 ",Postsecondary nondegree award,None,None
+  Healthcare support occupations,31-0000,Summary,"7,144.90","8,245.50","1,100.60",15.4,2.4,"1,211.00","$33,600 ",,,
+"    Home health and personal care aides; and nursing assistants, orderlies, and psychiatric aides",31-1100,Summary,"5,154.80","6,019.30",864.6,16.8,2.2,899,"$31,450 ",,,
+      Home health and personal care aides,31-1120,Line item,"3,715.50","4,520.10",804.6,21.7,2.7,684.6,"$30,180 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Nursing assistants, orderlies, and psychiatric aides",31-1130,Summary,"1,439.20","1,499.20",60,4.2,1.1,214.4,"$35,760 ",,,
+        Nursing assistants,31-1131,Line item,"1,361.30","1,417.80",56.5,4.1,1.2,202.4,"$35,760 ",Postsecondary nondegree award,None,None
+        Orderlies,31-1132,Line item,45.5,47.4,1.9,4.2,,7,"$34,520 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Psychiatric aides,31-1133,Line item,32.4,34,1.6,4.9,,5,"$37,160 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Occupational therapy and physical therapist assistants and aides,31-2000,Summary,194.1,232.8,38.6,19.9,,32.9,"$59,560 ",,,
+      Occupational therapy assistants and aides,31-2010,Summary,49,60,11,22.5,,8.6,"$63,450 ",,,
+        Occupational therapy assistants,31-2011,Line item,45.1,56,10.8,24,,8,"$64,250 ",Associate's degree,None,None
+        Occupational therapy aides,31-2012,Line item,3.8,4,0.2,4.9,,0.6,"$37,060 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Physical therapist assistants and aides,31-2020,Summary,145.1,172.7,27.6,19,,24.3,"$57,240 ",,,
+        Physical therapist assistants,31-2021,Line item,100.7,126.9,26.3,26.1,,18.1,"$62,770 ",Associate's degree,None,None
+        Physical therapist aides,31-2022,Line item,44.5,45.8,1.3,3,,6.3,"$31,410 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Other healthcare support occupations,31-9000,Summary,"1,796.10","1,993.40",197.4,11,3,279.1,"$38,810 ",,,
+      Massage therapists,31-9011,Line item,134.3,158.9,24.6,18.3,34.6,22,"$49,860 ",Postsecondary nondegree award,None,None
+      Miscellaneous healthcare support occupations,31-9090,Summary,"1,661.70","1,834.50",172.8,10.4,0.5,257.1,"$38,550 ",,,
+        Dental assistants,31-9091,Line item,371,396.7,25.7,6.9,0.8,55.1,"$44,820 ",Postsecondary nondegree award,None,None
+        Medical assistants,31-9092,Line item,764.4,870.2,105.9,13.9,0.1,114.6,"$38,270 ",Postsecondary nondegree award,None,None
+        Medical equipment preparers,31-9093,Line item,66.7,70.3,3.6,5.4,2.4,9.5,"$41,480 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Medical transcriptionists,31-9094,Line item,49,47.2,-1.8,-3.8,,8.1,"$34,730 ",Postsecondary nondegree award,None,None
+        Pharmacy aides,31-9095,Line item,43.7,42.4,-1.2,-2.8,,7.5,"$33,270 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Veterinary assistants and laboratory animal caretakers,31-9096,Line item,114.8,138.3,23.5,20.5,,26.8,"$34,740 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Phlebotomists,31-9097,Line item,139.4,150.2,10.8,7.7,0.3,19.5,"$38,530 ",Postsecondary nondegree award,None,None
+"        Healthcare support workers, all other",31-9099,Line item,112.7,119.1,6.4,5.7,1.8,16,"$40,420 ",High school diploma or equivalent,None,None
+  Protective service occupations,33-0000,Summary,"3,568.40","3,579.80",11.4,0.3,0.3,409.5,"$45,450 ",,,
+    Supervisors of protective service workers,33-1000,Summary,370.2,374.5,4.3,1.1,0.3,27.2,"$75,750 ",,,
+      First-line supervisors of law enforcement workers,33-1010,Summary,196.4,199.1,2.7,1.4,,14,"$84,350 ",,,
+        First-line supervisors of correctional officers,33-1011,Line item,58.5,56.9,-1.6,-2.7,,4.4,"$63,310 ",High school diploma or equivalent,Less than 5 years,None
+        First-line supervisors of police and detectives,33-1012,Line item,137.9,142.2,4.3,3.1,,9.5,"$96,290 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      First-line supervisors of firefighting and prevention workers,33-1021,Line item,87.1,90.2,3.1,3.6,,5.7,"$80,150 ",Postsecondary nondegree award,Less than 5 years,Moderate-term on-the-job training
+"      Miscellaneous first-line supervisors, protective service workers",33-1090,Summary,86.7,85.2,-1.6,-1.8,1.1,7.6,"$52,850 ",,,
+        First-line supervisors of security workers,33-1091,Line item,62.2,59.8,-2.4,-3.9,1.3,5.3,"$48,810 ",High school diploma or equivalent,Less than 5 years,None
+"        First-line supervisors of protective service workers, all other",33-1099,Line item,24.5,25.3,0.8,3.4,0.7,2.3,"$61,030 ",High school diploma or equivalent,Less than 5 years,None
+    Firefighting and prevention workers,33-2000,Summary,351.6,364.6,12.9,3.7,0.2,28,"$52,740 ",,,
+      Firefighters,33-2011,Line item,334.2,346.2,12,3.6,0.2,26.4,"$51,680 ",Postsecondary nondegree award,None,Long-term on-the-job training
+      Fire inspectors,33-2020,Summary,17.4,18.4,0.9,5.3,,1.6,"$65,800 ",,,
+        Fire inspectors and investigators,33-2021,Line item,15,15.6,0.6,3.7,,1.3,"$69,450 ",Postsecondary nondegree award,5 years or more,Moderate-term on-the-job training
+        Forest fire inspectors and prevention specialists,33-2022,Line item,2.4,2.8,0.4,14.8,,0.3,"$48,110 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+    Law enforcement workers,33-3000,Summary,"1,213.40","1,208.10",-5.3,-0.4,0.1,96.3,"$61,680 ",,,
+"      Bailiffs, correctional officers, and jailers",33-3010,Summary,395.7,366.7,-29,-7.3,,30.9,"$49,610 ",,,
+        Bailiffs,33-3011,Line item,17.1,16.8,-0.4,-2.3,,2.3,"$49,100 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Correctional officers and jailers,33-3012,Line item,378.5,349.9,-28.6,-7.5,,28.6,"$49,610 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Detectives and criminal investigators,33-3021,Line item,114.4,116.1,1.7,1.5,0.6,8.6,"$86,280 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Fish and game wardens,33-3031,Line item,6.9,6.5,-0.4,-6.3,,0.7,"$59,500 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Parking enforcement workers,33-3041,Line item,9,8.9,-0.1,-1.4,,0.9,"$41,570 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Police officers,33-3050,Summary,687.4,710,22.6,3.3,,55.3,"$65,810 ",,,
+        Police and sheriff's patrol officers,33-3051,Line item,684,706.5,22.5,3.3,,55,"$65,790 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Transit and railroad police,33-3052,Line item,3.4,3.5,0.1,3.2,,0.3,"$69,150 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Other protective service workers,33-9000,Summary,"1,633.20","1,632.70",-0.5,0,0.5,258,"$34,650 ",,,
+      Animal control workers,33-9011,Line item,11.9,12.4,0.5,4,,1.2,"$39,320 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Private detectives and investigators,33-9021,Line item,38.3,40.6,2.3,6.1,15.5,3.8,"$52,120 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Security guards and gambling surveillance officers,33-9030,Summary,"1,166.70","1,151.90",-14.8,-1.3,0.1,151.7,"$34,770 ",,,
+        Gambling surveillance officers and gambling investigators,33-9031,Line item,10.8,10.9,0.1,0.6,,1.4,"$35,970 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+        Security guards,33-9032,Line item,"1,155.90","1,141.00",-14.9,-1.3,0.1,150.3,"$34,750 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Miscellaneous protective service workers,33-9090,Summary,416.3,427.8,11.5,2.8,0.1,101.3,"$32,870 ",,,
+        Crossing guards and flaggers,33-9091,Line item,94.1,98,3.8,4.1,,21.8,"$33,380 ",No formal educational credential,None,Short-term on-the-job training
+"        Lifeguards, ski patrol, and other recreational protective service workers",33-9092,Line item,113.5,120.5,7,6.2,,35,"$27,270 ",No formal educational credential,None,Short-term on-the-job training
+        Transportation security screeners,33-9093,Line item,51.3,51.3,0,0,,4.7,"$47,710 ",High school diploma or equivalent,None,Short-term on-the-job training
+        School bus monitors,33-9094,Line item,62.4,60.1,-2.2,-3.6,0.5,11.2,"$29,880 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Protective service workers, all other",33-9099,Line item,95,97.9,2.9,3,,28.6,"$36,460 ",High school diploma or equivalent,None,Short-term on-the-job training
+  Food preparation and serving related occupations,35-0000,Summary,"12,965.90","13,191.50",225.6,1.7,0.6,"2,480.30","$29,640 ",,,
+    Supervisors of food preparation and serving workers,35-1000,Summary,"1,396.10","1,465.40",69.3,5,1.9,210.9,"$37,930 ",,,
+      Chefs and head cooks,35-1011,Line item,174.4,183.6,9.2,5.3,4,22,"$56,520 ",High school diploma or equivalent,5 years or more,None
+      First-line supervisors of food preparation and serving workers,35-1012,Line item,"1,221.70","1,281.80",60,4.9,1.6,188.9,"$37,050 ",High school diploma or equivalent,Less than 5 years,None
+    Cooks and food preparation workers,35-2000,Summary,"3,661.10","3,791.60",130.5,3.6,0.8,596.4,"$30,590 ",,,
+      Cooks,35-2010,Summary,"2,729.30","2,904.50",175.3,6.4,0.9,439.3,"$30,910 ",,,
+"        Cooks, fast food",35-2011,Line item,742,640.4,-101.6,-13.7,,93.3,"$27,640 ",No formal educational credential,None,Short-term on-the-job training
+"        Cooks, institution and cafeteria",35-2012,Line item,434.5,443.4,8.9,2.1,,66.6,"$32,510 ",No formal educational credential,None,Short-term on-the-job training
+"        Cooks, private household",35-2013,Line item,34,32.1,-1.9,-5.5,73.3,4.8,"$38,570 ",Postsecondary nondegree award,Less than 5 years,None
+"        Cooks, restaurant",35-2014,Line item,"1,361.20","1,638.90",277.6,20.4,,252.4,"$34,110 ",No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+"        Cooks, short order",35-2015,Line item,137.4,128.9,-8.4,-6.1,,19.1,"$30,360 ",No formal educational credential,None,Short-term on-the-job training
+"        Cooks, all other",35-2019,Line item,20.2,20.8,0.6,3.2,,3.1,"$33,390 ",No formal educational credential,None,Moderate-term on-the-job training
+      Food preparation workers,35-2021,Line item,931.8,887,-44.8,-4.8,0.4,157.1,"$29,790 ",No formal educational credential,None,Short-term on-the-job training
+    Food and beverage serving workers,35-3000,Summary,"6,504.10","6,515.30",11.2,0.2,0.2,"1,386.50","$28,440 ",,,
+      Bartenders,35-3011,Line item,641.3,662.6,21.3,3.3,0.3,113.5,"$29,380 ",No formal educational credential,None,Short-term on-the-job training
+      Fast food and counter workers,35-3023,Line item,"3,410.10","3,460.50",50.4,1.5,0.1,789.3,"$27,930 ",No formal educational credential,None,Short-term on-the-job training
+      Waiters and waitresses,35-3031,Line item,"2,194.10","2,125.50",-68.6,-3.1,0.3,440,"$29,120 ",No formal educational credential,None,Short-term on-the-job training
+"      Food servers, nonrestaurant",35-3041,Line item,258.6,266.6,8.1,3.1,0.3,43.7,"$30,300 ",No formal educational credential,None,Short-term on-the-job training
+    Other food preparation and serving related workers,35-9000,Summary,"1,404.60","1,419.30",14.7,1,0.6,286.6,"$28,750 ",,,
+      Dining room and cafeteria attendants and bartender helpers,35-9011,Line item,459.2,478.4,19.2,4.2,1.1,89.1,"$29,120 ",No formal educational credential,None,Short-term on-the-job training
+      Dishwashers,35-9021,Line item,447.1,436.9,-10.2,-2.3,0.5,75.1,"$29,080 ",No formal educational credential,None,Short-term on-the-job training
+"      Hosts and hostesses, restaurant, lounge, and coffee shop",35-9031,Line item,412.8,414.9,2,0.5,0.2,104.2,"$27,720 ",No formal educational credential,None,Short-term on-the-job training
+"      Food preparation and serving related workers, all other",35-9099,Line item,85.4,89.1,3.7,4.3,,18.3,"$30,840 ",No formal educational credential,None,Short-term on-the-job training
+  Building and grounds cleaning and maintenance occupations,37-0000,Summary,"5,501.20","5,594.10",92.9,1.7,12.4,752.6,"$33,870 ",,,
+    Supervisors of building and grounds cleaning and maintenance workers,37-1000,Summary,485.8,499.6,13.8,2.8,38.6,54.7,"$47,230 ",,,
+      First-line supervisors of housekeeping and janitorial workers,37-1011,Line item,254.9,262.6,7.7,3,31.3,30.4,"$44,440 ",High school diploma or equivalent,Less than 5 years,None
+"      First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,Line item,230.9,237,6.1,2.6,46.6,24.3,"$50,810 ",High school diploma or equivalent,Less than 5 years,None
+    Building cleaning and pest control workers,37-2000,Summary,"3,733.80","3,768.70",34.9,0.9,6.4,527.5,"$31,600 ",,,
+      Building cleaning workers,37-2010,Summary,"3,638.80","3,670.70",31.9,0.9,6.5,514.9,"$31,350 ",,,
+"        Janitors and cleaners, except maids and housekeeping cleaners",37-2011,Line item,"2,382.90","2,412.80",29.9,1.3,5.3,336.7,"$31,990 ",No formal educational credential,None,Short-term on-the-job training
+        Maids and housekeeping cleaners,37-2012,Line item,"1,238.80","1,240.40",1.6,0.1,8.8,175.7,"$29,960 ",No formal educational credential,None,Short-term on-the-job training
+"        Building cleaning workers, all other",37-2019,Line item,17.1,17.5,0.4,2.5,6.6,2.5,"$37,200 ",No formal educational credential,None,Short-term on-the-job training
+      Pest control workers,37-2021,Line item,95,98,3,3.1,2.8,12.6,"$38,310 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Grounds maintenance workers,37-3000,Summary,"1,281.60","1,325.80",44.2,3.5,20.1,170.3,"$36,160 ",,,
+      Landscaping and groundskeeping workers,37-3011,Line item,"1,176.10","1,217.90",41.7,3.5,20.3,156.6,"$35,890 ",No formal educational credential,None,Short-term on-the-job training
+"      Pesticide handlers, sprayers, and applicators, vegetation",37-3012,Line item,23.2,23.7,0.5,2,0.4,3,"$41,440 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Tree trimmers and pruners,37-3013,Line item,66,67.6,1.7,2.5,27.6,8.6,"$47,080 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Grounds maintenance workers, all other",37-3019,Line item,16.3,16.6,0.4,2.2,,2.1,"$39,520 ",No formal educational credential,None,Short-term on-the-job training
+  Personal care and service occupations,39-0000,Summary,"4,115.90","4,365.20",249.3,6.1,21.8,752.7,"$31,340 ",,,
+    Supervisors of personal care and service workers,39-1000,Summary,303.2,326.1,22.9,7.5,28.8,36,"$45,350 ",,,
+      First-line supervisors of entertainment and recreation workers,39-1010,Summary,144.2,154,9.7,6.7,26.5,17,"$46,730 ",,,
+        First-line supervisors of gambling services workers,39-1013,Line item,29.7,30.6,1,3.2,24.1,3.3,"$56,290 ",High school diploma or equivalent,Less than 5 years,None
+"        First-line supervisors of entertainment and recreation workers, except gambling services",39-1014,Line item,114.6,123.3,8.8,7.7,27.1,13.6,"$44,660 ",High school diploma or equivalent,Less than 5 years,None
+      First-line supervisors of personal service workers,39-1022,Line item,159,172.1,13.1,8.3,30.9,19.1,"$43,680 ",High school diploma or equivalent,Less than 5 years,None
+    Animal care and service workers,39-2000,Summary,393.1,454.3,61.2,15.6,23.8,79.9,"$29,790 ",,,
+      Animal trainers,39-2011,Line item,54.1,62.8,8.7,16,54.4,9,"$35,620 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Animal caretakers,39-2021,Line item,339,391.5,52.5,15.5,18.9,70.9,"$29,530 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Entertainment attendants and related workers,39-3000,Summary,573.8,591.7,17.9,3.1,1,154.1,"$28,060 ",,,
+      Gambling services workers,39-3010,Summary,97.1,97.7,0.6,0.6,2.8,15.5,"$29,120 ",,,
+        Gambling dealers,39-3011,Line item,75.6,76.4,0.8,1,2.7,12.1,"$29,120 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Gambling and sports book writers and runners,39-3012,Line item,8.4,8.1,-0.3,-4,3.1,1.3,"$28,940 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Gambling service workers, all other",39-3019,Line item,13.1,13.2,0.1,0.8,2.8,2.1,"$30,350 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Motion picture projectionists,39-3021,Line item,2.1,1.9,-0.2,-9.6,,0.5,"$33,360 ",No formal educational credential,None,Short-term on-the-job training
+"      Ushers, lobby attendants, and ticket takers",39-3031,Line item,106.6,108.3,1.7,1.6,,31.5,"$27,650 ",No formal educational credential,None,Short-term on-the-job training
+      Miscellaneous entertainment attendants and related workers,39-3090,Summary,368,383.9,15.9,4.3,0.9,106.6,"$27,930 ",,,
+        Amusement and recreation attendants,39-3091,Line item,343.8,358.1,14.4,4.2,0.9,99.4,"$27,780 ",No formal educational credential,None,Short-term on-the-job training
+        Costume attendants,39-3092,Line item,6.1,6.4,0.3,5,1,1.8,"$48,470 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Locker room, coatroom, and dressing room attendants",39-3093,Line item,12.9,13.8,0.9,7,0.9,3.8,"$30,210 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Entertainment attendants and related workers, all other",39-3099,Line item,5.2,5.5,0.3,5.4,,1.5,"$27,260 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Funeral service workers,39-4000,Summary,64.6,66.6,2,3.1,0.5,9,"$37,310 ",,,
+      Embalmers and crematory operators,39-4010,Summary,6.9,7.1,0.1,2.1,,1,"$46,290 ",,,
+        Embalmers,39-4011,Line item,4,4,0,0.9,,0.6,"$49,910 ",Associate's degree,None,Long-term on-the-job training
+        Crematory operators,39-4012,Line item,3,3.1,0.1,3.9,,0.4,"$40,360 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Funeral attendants,39-4021,Line item,33.2,34.2,0.9,2.8,,4.9,"$31,160 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Morticians, undertakers, and funeral arrangers",39-4031,Line item,24.5,25.4,0.9,3.7,1.3,3,"$51,570 ",Associate's degree,None,Long-term on-the-job training
+    Personal appearance workers,39-5000,Summary,913.6,987.1,73.4,8,42.5,130.2,"$33,270 ",,,
+"      Barbers, hairdressers, hairstylists and cosmetologists",39-5010,Summary,618.9,666.1,47.2,7.6,49.4,89.4,"$33,400 ",,,
+        Barbers,39-5011,Line item,63.1,67.6,4.4,7,79,7.3,"$34,990 ",Postsecondary nondegree award,None,None
+"        Hairdressers, hairstylists, and cosmetologists",39-5012,Line item,555.8,598.6,42.8,7.7,46,82,"$33,290 ",Postsecondary nondegree award,None,None
+      Miscellaneous personal appearance workers,39-5090,Summary,294.7,321,26.2,8.9,28,40.8,"$33,000 ",,,
+"        Makeup artists, theatrical and performance",39-5091,Line item,4.6,4.9,0.4,8.6,32.9,0.8,"$96,370 ",Postsecondary nondegree award,None,None
+        Manicurists and pedicurists,39-5092,Line item,196.9,214,17.1,8.7,29.4,25.5,"$31,130 ",Postsecondary nondegree award,None,None
+        Shampooers,39-5093,Line item,11.3,12.6,1.3,11.2,33.4,2.1,"$27,860 ",No formal educational credential,None,Short-term on-the-job training
+        Skincare specialists,39-5094,Line item,82,89.4,7.5,9.1,23.5,12.4,"$38,060 ",Postsecondary nondegree award,None,None
+"    Baggage porters, bellhops, and concierges",39-6000,Summary,66.4,70.3,3.9,5.9,,11.1,"$33,870 ",,,
+      Baggage porters and bellhops,39-6011,Line item,27.7,29.4,1.7,6.3,,4.7,"$31,510 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Concierges,39-6012,Line item,38.7,40.9,2.2,5.6,,6.5,"$35,560 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Tour and travel guides,39-7000,Summary,53.6,58,4.3,8.1,17.4,12.2,"$34,440 ",,,
+      Tour and travel guides,39-7010,Line item,53.6,58,4.3,8.1,17.4,12.2,"$34,440 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Other personal care and service workers,39-9000,Summary,"1,747.40","1,811.10",63.6,3.6,18,320.3,"$31,570 ",,,
+      Childcare workers,39-9011,Line item,945.9,927.4,-18.5,-2,24.4,153.1,"$28,520 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Recreation and fitness workers,39-9030,Summary,618.8,677.4,58.5,9.5,10.4,130.7,"$35,170 ",,,
+        Exercise trainers and group fitness instructors,39-9031,Line item,329.5,374.6,45.2,13.7,19.3,69,"$45,380 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Recreation workers,39-9032,Line item,289.4,302.7,13.4,4.6,0.3,61.7,"$31,680 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Residential advisors,39-9041,Line item,95.7,101.4,5.7,6,2.2,17.6,"$35,720 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Personal care and service workers, all other",39-9099,Line item,87,104.9,17.9,20.5,20.2,18.9,"$34,670 ",High school diploma or equivalent,None,Short-term on-the-job training
+  Sales and related occupations,41-0000,Summary,"14,476.40","14,102.00",-374.5,-2.6,7.8,"1,806.90","$35,290 ",,,
+    Supervisors of sales workers,41-1000,Summary,"1,770.20","1,668.20",-102,-5.8,24.1,152,"$47,800 ",,,
+      First-line supervisors of retail sales workers,41-1011,Line item,"1,405.80","1,311.80",-94,-6.7,21.7,123.7,"$45,250 ",High school diploma or equivalent,Less than 5 years,None
+      First-line supervisors of non-retail sales workers,41-1012,Line item,364.4,356.4,-8,-2.2,33.1,28.2,"$82,850 ",High school diploma or equivalent,Less than 5 years,None
+    Retail sales workers,41-2000,Summary,"7,777.80","7,362.30",-415.4,-5.3,2,"1,189.90","$29,660 ",,,
+      Cashiers,41-2010,Summary,"3,365.20","3,016.00",-349.2,-10.4,0.5,581.2,"$28,250 ",,,
+        Cashiers,41-2011,Line item,"3,345.80","2,997.70",-348.1,-10.4,0.5,577.6,"$28,240 ",No formal educational credential,None,Short-term on-the-job training
+        Gambling change persons and booth cashiers,41-2012,Line item,19.4,18.3,-1.1,-5.6,,3.5,"$30,010 ",No formal educational credential,None,Short-term on-the-job training
+      Counter and rental clerks and parts salespersons,41-2020,Summary,646.9,659.9,12.9,2,0.9,77.1,"$35,820 ",,,
+        Counter and rental clerks,41-2021,Line item,380.8,391.2,10.4,2.7,0.8,45.7,"$35,830 ",No formal educational credential,None,Short-term on-the-job training
+        Parts salespersons,41-2022,Line item,266.1,268.7,2.6,1,1,31.4,"$35,800 ",No formal educational credential,None,Moderate-term on-the-job training
+      Retail salespersons,41-2031,Line item,"3,765.60","3,686.40",-79.1,-2.1,3.6,531.7,"$30,600 ",No formal educational credential,None,Short-term on-the-job training
+"    Sales representatives, services",41-3000,Summary,"2,309.80","2,428.00",118.1,5.1,5.1,218.1,"$61,180 ",,,
+      Advertising sales agents,41-3011,Line item,111.4,103.4,-8,-7.2,3.6,10.5,"$58,450 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Insurance sales agents,41-3021,Line item,536.8,579.3,42.5,7.9,11.1,48.3,"$57,860 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Securities, commodities, and financial services sales agents",41-3031,Line item,482.2,517.7,35.6,7.4,5.9,40.1,"$67,480 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Travel agents,41-3041,Line item,66.3,68.6,2.3,3.5,17.8,8.6,"$46,400 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,Line item,"1,113.20","1,158.90",45.7,4.1,1.3,110.6,"$62,400 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"    Sales representatives, wholesale and manufacturing",41-4000,Summary,"1,649.90","1,670.40",20.5,1.2,2.7,148,"$67,750 ",,,
+"      Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,Line item,305.6,317.1,11.4,3.7,2.7,28.5,"$97,710 ",Bachelor's degree,None,Moderate-term on-the-job training
+"      Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,Line item,"1,344.30","1,353.40",9.1,0.7,2.7,119.5,"$63,230 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Other sales and related workers,41-9000,Summary,968.7,973,4.3,0.4,39.4,99,"$45,970 ",,,
+"      Models, demonstrators, and product promoters",41-9010,Summary,47.1,48.9,1.8,3.8,2.2,8.9,"$34,840 ",,,
+        Demonstrators and product promoters,41-9011,Line item,45,46.8,1.8,4,2.3,8.5,"$34,770 ",No formal educational credential,None,Short-term on-the-job training
+        Models,41-9012,Line item,2.2,2.2,0,0.5,,0.4,"$43,130 ",No formal educational credential,None,None
+      Real estate brokers and sales agents,41-9020,Summary,589.8,609.2,19.4,3.3,57.5,51.6,"$52,030 ",,,
+        Real estate brokers,41-9021,Line item,127.2,131.6,4.4,3.5,58,11.2,"$62,190 ",High school diploma or equivalent,Less than 5 years,None
+        Real estate sales agents,41-9022,Line item,462.6,477.6,14.9,3.2,57.3,40.5,"$49,980 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Sales engineers,41-9031,Line item,60.9,63.8,2.9,4.7,0.5,5.9,"$108,530 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Telemarketers,41-9041,Line item,97.7,77.6,-20.1,-20.6,0.9,9.8,"$31,030 ",No formal educational credential,None,Short-term on-the-job training
+      Miscellaneous sales and related workers,41-9090,Summary,173.2,173.5,0.3,0.2,23.3,22.8,"$42,220 ",,,
+"        Door-to-door sales workers, news and street vendors, and related workers",41-9091,Line item,36.4,30.6,-5.8,-15.9,76.1,4,"$31,100 ",No formal educational credential,None,Short-term on-the-job training
+"        Sales and related workers, all other",41-9099,Line item,136.8,142.9,6.1,4.5,9.2,18.8,"$44,120 ",High school diploma or equivalent,None,None
+  Office and administrative support occupations,43-0000,Summary,"19,891.40","18,663.80","-1,227.60",-6.2,1.9,"2,059.80","$40,910 ",,,
+    Supervisors of office and administrative support workers,43-1000,Summary,"1,567.20","1,486.40",-80.7,-5.2,0.8,137.7,"$61,370 ",,,
+      First-line supervisors of office and administrative support workers,43-1011,Line item,"1,567.20","1,486.40",-80.7,-5.2,0.8,137.7,"$61,370 ",High school diploma or equivalent,Less than 5 years,None
+    Communications equipment operators,43-2000,Summary,54.3,41.1,-13.1,-24.2,0.9,3.6,"$35,020 ",,,
+"      Switchboard operators, including answering service",43-2011,Line item,48.4,36.2,-12.1,-25.1,,2.9,"$34,670 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Telephone operators,43-2021,Line item,4.1,3,-1.1,-26.6,,0.4,"$38,330 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Communications equipment operators, all other",43-2099,Line item,1.8,1.9,0.1,5.9,26.4,0.3,"$46,180 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Financial clerks,43-3000,Summary,"3,052.50","2,839.00",-213.5,-7,2.7,302.2,"$43,680 ",,,
+      Bill and account collectors,43-3011,Line item,209.7,189.6,-20.1,-9.6,2.3,19.2,"$39,470 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Billing and posting clerks,43-3021,Line item,456.3,456.4,0.1,0,0.7,46.7,"$42,810 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Bookkeeping, accounting, and auditing clerks",43-3031,Line item,"1,735.80","1,627.50",-108.3,-6.2,4.1,183.9,"$45,860 ","Some college, no degree",None,Moderate-term on-the-job training
+      Gambling cage workers,43-3041,Line item,12.2,11.5,-0.7,-5.4,0.8,1.1,"$31,720 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Payroll and timekeeping clerks,43-3051,Line item,165.4,138.3,-27.2,-16.4,0.8,12.5,"$49,630 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Procurement clerks,43-3061,Line item,65.3,60.4,-4.9,-7.6,,5.4,"$45,240 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Tellers,43-3071,Line item,364.1,311.1,-52.9,-14.5,0,29,"$36,380 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Financial clerks, all other",43-3099,Line item,43.7,44.2,0.5,1.1,1.5,4.5,"$47,130 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Information and record clerks,43-4000,Summary,"5,871.00","5,639.30",-231.7,-3.9,1,712.4,"$37,440 ",,,
+      Brokerage clerks,43-4011,Line item,43.7,39.8,-3.9,-8.9,0.6,4.3,"$54,680 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Correspondence clerks,43-4021,Line item,6,5.6,-0.4,-5.9,12.5,0.6,"$38,700 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Court, municipal, and license clerks",43-4031,Line item,170.6,175.7,5.1,3,2.6,17.7,"$44,140 ",High school diploma or equivalent,None,Long-term on-the-job training
+"      Credit authorizers, checkers, and clerks",43-4041,Line item,16.4,15.5,-1,-5.8,,1.2,"$44,830 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Customer service representatives,43-4051,Line item,"2,982.90","2,820.20",-162.7,-5.5,0.6,373.4,"$37,780 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Eligibility interviewers, government programs",43-4061,Line item,157.5,161,3.5,2.2,,14.1,"$49,230 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      File clerks,43-4071,Line item,91.1,76.5,-14.6,-16,0.8,8.8,"$37,290 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Hotel, motel, and resort desk clerks",43-4081,Line item,257.7,251.1,-6.6,-2.6,0.4,39.8,"$28,910 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Interviewers, except eligibility and loan",43-4111,Line item,175.4,157.6,-17.7,-10.1,0.3,18.2,"$38,700 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Library assistants, clerical",43-4121,Line item,82.9,78.2,-4.8,-5.8,0.8,13.5,"$31,150 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Loan interviewers and clerks,43-4131,Line item,247.1,244.6,-2.5,-1,0.8,20,"$46,490 ",High school diploma or equivalent,None,Short-term on-the-job training
+      New accounts clerks,43-4141,Line item,46.6,39.8,-6.7,-14.4,,3.2,"$40,820 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Order clerks,43-4151,Line item,132.8,108.6,-24.2,-18.2,13.7,11.2,"$38,060 ","Some college, no degree",None,Short-term on-the-job training
+"      Human resources assistants, except payroll and timekeeping",43-4161,Line item,107.6,102.4,-5.2,-4.9,0.6,11.1,"$45,930 ",Associate's degree,None,None
+      Receptionists and information clerks,43-4171,Line item,"1,068.80","1,072.70",3.9,0.4,1.3,142.6,"$33,960 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Reservation and transportation ticket agents and travel clerks,43-4181,Line item,123,124.6,1.6,1.3,0.5,13.8,"$39,160 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Information and record clerks, all other",43-4199,Line item,161.1,165.4,4.3,2.7,0.2,18.9,"$44,720 ",High school diploma or equivalent,None,Short-term on-the-job training
+"    Material recording, scheduling, dispatching, and distributing workers",43-5000,Summary,"2,467.90","2,382.90",-84.9,-3.4,5.9,226,"$44,580 ",,,
+      Cargo and freight agents,43-5011,Line item,95.9,105.2,9.3,9.7,0.8,11,"$46,860 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Couriers and messengers,43-5021,Line item,217.1,220.6,3.5,1.6,63.9,23.7,"$35,280 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Dispatchers,43-5030,Summary,314.3,315.4,1.1,0.3,1,30.1,"$45,550 ",,,
+        Public safety telecommunicators,43-5031,Line item,99.5,102.9,3.4,3.4,,10.4,"$46,900 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Dispatchers, except police, fire, and ambulance",43-5032,Line item,214.8,212.5,-2.3,-1.1,1.5,19.7,"$44,830 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Meter readers, utilities",43-5041,Line item,21.1,18.5,-2.6,-12.2,,1.4,"$44,760 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Postal service workers,43-5050,Summary,504.3,465.3,-39,-7.7,,34.4,"$53,680 ",,,
+        Postal service clerks,43-5051,Line item,74.8,69.8,-5,-6.7,,5.6,"$56,200 ",No formal educational credential,None,Short-term on-the-job training
+        Postal service mail carriers,43-5052,Line item,314.5,293.5,-21,-6.7,,20.6,"$54,250 ",No formal educational credential,None,Short-term on-the-job training
+"        Postal service mail sorters, processors, and processing machine operators",43-5053,Line item,115,102.1,-13,-11.3,,8.2,"$49,130 ",No formal educational credential,None,Short-term on-the-job training
+"      Production, planning, and expediting clerks",43-5061,Line item,396.8,413.3,16.5,4.2,0.1,42.7,"$50,630 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Shipping, receiving, and inventory clerks",43-5071,Line item,862.9,790.6,-72.2,-8.4,0.4,76.1,"$37,760 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,Line item,55.6,54,-1.6,-2.8,,6.5,"$39,950 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Secretaries and administrative assistants,43-6000,Summary,"3,399.20","3,066.60",-332.6,-9.8,1.1,316,"$44,080 ",,,
+      Executive secretaries and executive administrative assistants,43-6011,Line item,511.1,403,-108.1,-21.1,0.4,35.6,"$65,980 ",High school diploma or equivalent,Less than 5 years,None
+      Legal secretaries and administrative assistants,43-6012,Line item,161.4,126.2,-35.3,-21.8,0.2,12.7,"$48,780 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Medical secretaries and administrative assistants,43-6013,Line item,696.6,743.2,46.6,6.7,,79.3,"$38,500 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Secretaries and administrative assistants, except legal, medical, and executive",43-6014,Line item,"2,030.20","1,794.30",-235.9,-11.6,1.7,188.4,"$41,000 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Other office and administrative support workers,43-9000,Summary,"3,479.40","3,208.40",-271,-7.8,1.3,362,"$38,290 ",,,
+      Data entry and information processing workers,43-9020,Summary,209.6,149.5,-60.1,-28.7,1.9,15.3,"$37,270 ",,,
+        Data entry keyers,43-9021,Line item,165.6,122.5,-43.1,-26,2,12.3,"$36,190 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Word processors and typists,43-9022,Line item,44,27,-17,-38.6,1.8,3,"$44,330 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Desktop publishers,43-9031,Line item,8.5,7.4,-1.1,-13.5,17.3,0.7,"$47,910 ",Associate's degree,None,Short-term on-the-job training
+      Insurance claims and policy processing clerks,43-9041,Line item,259,250.8,-8.2,-3.2,0.4,22.1,"$46,080 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Mail clerks and mail machine operators, except postal service",43-9051,Line item,72.8,69.4,-3.4,-4.7,1.7,8.9,"$35,070 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Office clerks, general",43-9061,Line item,"2,668.20","2,492.80",-175.4,-6.6,0.5,290.1,"$38,040 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Office machine operators, except computer",43-9071,Line item,31.6,27.1,-4.5,-14.2,,3.5,"$36,710 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Proofreaders and copy markers,43-9081,Line item,7.2,6.9,-0.3,-3.9,18.7,0.9,"$45,410 ",Bachelor's degree,None,None
+      Statistical assistants,43-9111,Line item,7.4,7.2,-0.1,-1.7,,0.6,"$48,880 ",Bachelor's degree,None,None
+"      Office and administrative support workers, all other",43-9199,Line item,215.1,197.3,-17.8,-8.3,9.9,19.8,"$38,660 ",High school diploma or equivalent,None,Short-term on-the-job training
+"  Farming, fishing, and forestry occupations",45-0000,Summary,996.4,977.2,-19.2,-1.9,6.7,142,"$33,970 ",,,
+"    Supervisors of farming, fishing, and forestry workers",45-1000,Summary,56.6,58.1,1.5,2.7,8.9,7.7,"$54,490 ",,,
+"      First-line supervisors of farming, fishing, and forestry workers",45-1011,Line item,56.6,58.1,1.5,2.7,8.9,7.7,"$54,490 ",High school diploma or equivalent,Less than 5 years,None
+    Agricultural workers,45-2000,Summary,848.8,831.6,-17.2,-2,4.3,122,"$33,410 ",,,
+      Agricultural inspectors,45-2011,Line item,14.1,14.4,0.3,2,1.4,2.3,"$44,720 ",Bachelor's degree,None,Moderate-term on-the-job training
+      Animal breeders,45-2021,Line item,6.5,6.6,0.1,2.1,2,1,"$45,320 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Graders and sorters, agricultural products",45-2041,Line item,30.1,28.5,-1.5,-5.1,,4.1,"$32,550 ",No formal educational credential,None,Short-term on-the-job training
+      Miscellaneous agricultural workers,45-2090,Summary,798.1,782,-16.1,-2,4.5,114.7,"$33,290 ",,,
+        Agricultural equipment operators,45-2091,Line item,64,69.5,5.5,8.6,4.6,10.4,"$37,780 ",No formal educational credential,None,Moderate-term on-the-job training
+"        Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,Line item,523.5,512.2,-11.3,-2.2,5.6,75.1,"$33,000 ",No formal educational credential,None,Short-term on-the-job training
+"        Farmworkers, farm, ranch, and aquacultural animals",45-2093,Line item,199.4,188.9,-10.5,-5.3,1.6,27.5,"$34,150 ",No formal educational credential,None,Short-term on-the-job training
+"        Agricultural workers, all other",45-2099,Line item,11.2,11.4,0.2,1.8,4.5,1.7,"$35,720 ",No formal educational credential,None,Short-term on-the-job training
+    Fishing and hunting workers,45-3000,Summary,27.3,27.2,-0.1,-0.4,36.3,3.5,,,,
+      Fishing and hunting workers,45-3031,Line item,27.3,27.2,-0.1,-0.4,36.3,3.5,,No formal educational credential,None,Moderate-term on-the-job training
+"    Forest, conservation, and logging workers",45-4000,Summary,63.6,60.2,-3.4,-5.3,24.5,8.9,"$45,050 ",,,
+      Forest and conservation workers,45-4011,Line item,11.3,10.3,-1,-8.7,9.2,1.8,"$32,270 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Logging workers,45-4020,Summary,52.3,49.9,-2.4,-4.6,27.8,7.1,"$46,580 ",,,
+        Fallers,45-4021,Line item,6.5,5.9,-0.6,-9.4,27.6,0.8,"$49,160 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Logging equipment operators,45-4022,Line item,35.3,34,-1.3,-3.8,27.8,4.8,"$46,400 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Log graders and scalers,45-4023,Line item,5.6,5.5,-0.1,-1.6,27.8,0.8,"$42,370 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Logging workers, all other",45-4029,Line item,4.9,4.6,-0.3,-7,28.2,0.6,"$47,110 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+  Construction and extraction occupations,47-0000,Summary,"7,335.50","7,520.60",185.1,2.5,16.1,646.1,"$50,570 ",,,
+    Supervisors of construction and extraction workers,47-1000,Summary,809.9,830.3,20.4,2.5,10,66.6,"$74,080 ",,,
+      First-line supervisors of construction trades and extraction workers,47-1011,Line item,809.9,830.3,20.4,2.5,10,66.6,"$74,080 ",High school diploma or equivalent,5 years or more,None
+    Construction trades workers,47-2000,Summary,"5,629.00","5,786.10",157.1,2.8,19,488.1,"$49,330 ",,,
+      Boilermakers,47-2011,Line item,13.7,13.1,-0.5,-4,,1.1,"$66,920 ",High school diploma or equivalent,None,Apprenticeship
+"      Brickmasons, blockmasons, and stonemasons",47-2020,Summary,86.5,86,-0.5,-0.5,24.1,6.8,"$58,290 ",,,
+        Brickmasons and blockmasons,47-2021,Line item,73,73.3,0.3,0.5,24,5.9,"$59,000 ",High school diploma or equivalent,None,Apprenticeship
+        Stonemasons,47-2022,Line item,13.5,12.7,-0.8,-5.9,24.2,1,"$50,210 ",High school diploma or equivalent,None,Apprenticeship
+      Carpenters,47-2031,Line item,956.3,964.9,8.6,0.9,26.7,79.5,"$51,390 ",High school diploma or equivalent,None,Apprenticeship
+"      Carpet, floor, and tile installers and finishers",47-2040,Summary,120.9,124.4,3.5,2.9,30,9.8,"$47,890 ",,,
+        Carpet installers,47-2041,Line item,25.1,22.3,-2.8,-11.1,30.2,1.5,"$45,240 ",No formal educational credential,None,Short-term on-the-job training
+"        Floor layers, except carpet, wood, and hard tiles",47-2042,Line item,30.2,32.3,2.2,7.3,30,2.6,"$48,870 ",No formal educational credential,None,Moderate-term on-the-job training
+        Floor sanders and finishers,47-2043,Line item,6.2,6.2,0,0.1,30,0.5,"$46,060 ",No formal educational credential,None,Moderate-term on-the-job training
+        Tile and stone setters,47-2044,Line item,59.4,63.5,4.1,6.9,29.9,5.1,"$48,340 ",No formal educational credential,None,Long-term on-the-job training
+"      Cement masons, concrete finishers, and terrazzo workers",47-2050,Summary,207.7,199.3,-8.5,-4.1,4.2,14.3,"$48,330 ",,,
+        Cement masons and concrete finishers,47-2051,Line item,206.2,197.9,-8.3,-4,4.2,14.2,"$48,300 ",No formal educational credential,None,Moderate-term on-the-job training
+        Terrazzo workers and finishers,47-2053,Line item,1.6,1.4,-0.2,-12.2,4.1,0.1,"$52,330 ",High school diploma or equivalent,None,Apprenticeship
+      Construction laborers,47-2061,Line item,"1,418.60","1,480.50",61.9,4.4,28.3,129.4,"$40,750 ",No formal educational credential,None,Short-term on-the-job training
+      Construction equipment operators,47-2070,Summary,483.3,496.6,13.3,2.7,2.1,42.3,"$51,050 ",,,
+"        Paving, surfacing, and tamping equipment operators",47-2071,Line item,42.3,43.9,1.6,3.7,2.3,3.8,"$47,270 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Pile driver operators,47-2072,Line item,3.3,3.4,0.1,3.2,2.6,0.3,"$64,310 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Operating engineers and other construction equipment operators,47-2073,Line item,437.6,449.2,11.6,2.7,2.1,38.2,"$51,430 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Drywall installers, ceiling tile installers, and tapers",47-2080,Summary,134.5,135.9,1.4,1.1,21.7,9,"$51,160 ",,,
+        Drywall and ceiling tile installers,47-2081,Line item,116.4,118.2,1.9,1.6,21.7,7.9,"$50,440 ",No formal educational credential,None,Moderate-term on-the-job training
+        Tapers,47-2082,Line item,18.1,17.7,-0.4,-2.3,21.7,1.1,"$62,360 ",No formal educational credential,None,Moderate-term on-the-job training
+      Electricians,47-2111,Line item,762.6,811.8,49.2,6.4,7.9,73.5,"$60,240 ",High school diploma or equivalent,None,Apprenticeship
+      Glaziers,47-2121,Line item,54.5,55.7,1.2,2.2,5.5,5.5,"$48,720 ",High school diploma or equivalent,None,Apprenticeship
+      Insulation workers,47-2130,Summary,61.6,62.6,1,1.7,3.7,4.8,"$47,980 ",,,
+"        Insulation workers, floor, ceiling, and wall",47-2131,Line item,34.4,35,0.6,1.7,3.8,2.7,"$45,380 ",No formal educational credential,None,Short-term on-the-job training
+"        Insulation workers, mechanical",47-2132,Line item,27.2,27.6,0.5,1.7,3.6,2.1,"$50,590 ",High school diploma or equivalent,None,Apprenticeship
+      Painters and paperhangers,47-2140,Summary,376.3,382,5.7,1.5,41.3,29.6,"$46,090 ",,,
+"        Painters, construction and maintenance",47-2141,Line item,372.4,377.9,5.5,1.5,41.3,29.3,"$46,090 ",No formal educational credential,None,Moderate-term on-the-job training
+        Paperhangers,47-2142,Line item,3.9,4,0.1,3.7,42.2,0.3,"$44,930 ",No formal educational credential,None,Long-term on-the-job training
+"      Pipelayers, plumbers, pipefitters, and steamfitters",47-2150,Summary,520.7,529.9,9.2,1.8,9.1,45.2,"$59,320 ",,,
+        Pipelayers,47-2151,Line item,38,36.3,-1.7,-4.4,2.4,2.6,"$45,990 ",No formal educational credential,None,Short-term on-the-job training
+"        Plumbers, pipefitters, and steamfitters",47-2152,Line item,482.7,493.6,10.9,2.3,9.6,42.6,"$60,090 ",High school diploma or equivalent,None,Apprenticeship
+      Plasterers and stucco masons,47-2161,Line item,27.3,27.9,0.6,2.1,5.4,2,"$49,730 ",No formal educational credential,None,Long-term on-the-job training
+      Reinforcing iron and rebar workers,47-2171,Line item,22.8,23.1,0.3,1.2,24.3,1.9,"$51,070 ",High school diploma or equivalent,None,Apprenticeship
+      Roofers,47-2181,Line item,154.5,157.6,3.1,2,14.1,12.2,"$47,920 ",No formal educational credential,None,Moderate-term on-the-job training
+      Sheet metal workers,47-2211,Line item,126.2,126,-0.2,-0.1,2.6,11.4,"$55,350 ",High school diploma or equivalent,None,Apprenticeship
+      Structural iron and steel workers,47-2221,Line item,71.6,72.9,1.3,1.8,6.4,6.3,"$60,500 ",High school diploma or equivalent,None,Apprenticeship
+      Solar photovoltaic installers,47-2231,Line item,29.4,35.9,6.6,22.3,5.3,3.5,"$45,230 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"    Helpers, construction trades",47-3000,Summary,206.2,202.2,-4,-2,0.6,22,"$37,180 ",,,
+"      Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",47-3011,Line item,17.9,15.9,-2,-10.9,0.6,1.7,"$39,430 ",No formal educational credential,None,Short-term on-the-job training
+      Helpers--carpenters,47-3012,Line item,25.1,23.7,-1.3,-5.3,0.6,2.5,"$37,490 ",No formal educational credential,None,Short-term on-the-job training
+      Helpers--electricians,47-3013,Line item,72.5,70,-2.5,-3.5,0.6,7.6,"$37,070 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Helpers--painters, paperhangers, plasterers, and stucco masons",47-3014,Line item,8.7,8.9,0.1,1.5,0.6,1,"$36,080 ",No formal educational credential,None,Short-term on-the-job training
+"      Helpers--pipelayers, plumbers, pipefitters, and steamfitters",47-3015,Line item,47.8,48.9,1.1,2.3,0.6,5.4,"$36,340 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Helpers--roofers,47-3016,Line item,5.9,6,0.1,2,,0.7,"$37,020 ",No formal educational credential,None,Short-term on-the-job training
+"      Helpers, construction trades, all other",47-3019,Line item,28.3,28.8,0.4,1.6,0.6,3.2,"$37,820 ",No formal educational credential,None,Short-term on-the-job training
+    Other construction and related workers,47-4000,Summary,480.9,494.3,13.4,2.8,5.4,48.3,"$49,660 ",,,
+      Construction and building inspectors,47-4011,Line item,142.4,140.2,-2.2,-1.5,7.1,15.7,"$64,480 ",High school diploma or equivalent,5 years or more,Moderate-term on-the-job training
+      Elevator and escalator installers and repairers,47-4021,Line item,25.1,25.5,0.4,1.5,,2.1,"$99,000 ",High school diploma or equivalent,None,Apprenticeship
+      Fence erectors,47-4031,Line item,35.2,34.9,-0.3,-0.7,24,2.9,"$39,840 ",No formal educational credential,None,Moderate-term on-the-job training
+      Hazardous materials removal workers,47-4041,Line item,48.7,49.1,0.4,0.8,2.9,5.2,"$46,690 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Highway maintenance workers,47-4051,Line item,151.2,163.2,12,7.9,1.7,15.2,"$44,930 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Rail-track laying and maintenance equipment operators,47-4061,Line item,16.5,16.7,0.2,1.4,,1.2,"$63,230 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Septic tank servicers and sewer pipe cleaners,47-4071,Line item,29.5,31.7,2.2,7.4,5.4,3,"$45,610 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Miscellaneous construction and related workers,47-4090,Line item,32.3,33,0.6,2,6.3,3,"$44,890 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Extraction workers,47-5000,Summary,209.5,207.8,-1.7,-0.8,2.9,21.1,"$49,330 ",,,
+"      Derrick, rotary drill, and service unit operators, oil and gas",47-5010,Summary,64.6,64.7,0.1,0.2,2.2,6.5,"$51,050 ",,,
+"        Derrick operators, oil and gas",47-5011,Line item,11.9,11.9,0.1,0.5,2.2,1.2,"$51,220 ",No formal educational credential,None,Short-term on-the-job training
+"        Rotary drill operators, oil and gas",47-5012,Line item,13.2,13.2,0,0.1,2.2,1.3,"$55,260 ",No formal educational credential,None,Moderate-term on-the-job training
+"        Service unit operators, oil and gas",47-5013,Line item,39.5,39.5,0.1,0.1,2.2,4,"$50,140 ",No formal educational credential,None,Moderate-term on-the-job training
+      Surface mining machine operators and earth drillers,47-5020,Summary,56.8,55.8,-0.9,-1.7,6.1,5.5,"$49,590 ",,,
+"        Excavating and loading machine and dragline operators, surface mining",47-5022,Line item,36.4,35,-1.4,-3.8,6,3.4,"$48,350 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"        Earth drillers, except oil and gas",47-5023,Line item,20.4,20.8,0.4,2.2,6.1,2.1,"$51,740 ",High school diploma or equivalent,Less than 5 years,Long-term on-the-job training
+"      Explosives workers, ordnance handling experts, and blasters",47-5032,Line item,4.9,4.9,0.1,1.1,,0.4,"$56,670 ",High school diploma or equivalent,Less than 5 years,Long-term on-the-job training
+      Underground mining machine operators,47-5040,Summary,23.4,21.2,-2.2,-9.3,0.6,2.2,"$60,670 ",,,
+        Continuous mining machine operators,47-5041,Line item,13.9,13.5,-0.4,-3.2,0.6,1.4,"$57,360 ",No formal educational credential,None,Moderate-term on-the-job training
+"        Roof bolters, mining",47-5043,Line item,1.8,1.3,-0.5,-28.5,,0.1,"$60,210 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Loading and moving machine operators, underground mining",47-5044,Line item,5.4,4.4,-1,-17.7,,0.4,"$63,920 ",No formal educational credential,None,Short-term on-the-job training
+"        Underground mining machine operators, all other",47-5049,Line item,2.3,2,-0.3,-12.5,,0.2,"$64,180 ",No formal educational credential,None,Moderate-term on-the-job training
+"      Rock splitters, quarry",47-5051,Line item,4.1,4.1,0.1,1.9,,0.5,"$46,010 ",No formal educational credential,None,Short-term on-the-job training
+"      Roustabouts, oil and gas",47-5071,Line item,42.1,43.3,1.2,2.9,2.2,4.4,"$43,590 ",No formal educational credential,None,Moderate-term on-the-job training
+      Helpers--extraction workers,47-5081,Line item,7.2,7.2,0.1,0.8,,0.8,"$43,110 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Extraction workers, all other",47-5099,Line item,6.6,6.4,-0.1,-1.8,,0.7,"$51,600 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"  Installation, maintenance, and repair occupations",49-0000,Summary,"6,315.30","6,543.70",228.4,3.6,4.7,582.1,"$50,080 ",,,
+"    Supervisors of installation, maintenance, and repair workers",49-1000,Summary,576.2,590.2,14,2.4,0,49.2,"$73,140 ",,,
+"      First-line supervisors of mechanics, installers, and repairers",49-1011,Line item,576.2,590.2,14,2.4,0,49.2,"$73,140 ",High school diploma or equivalent,Less than 5 years,None
+"    Electrical and electronic equipment mechanics, installers, and repairers",49-2000,Summary,527.5,528,0.5,0.1,4.8,50.5,"$56,950 ",,,
+"      Computer, automated teller, and office machine repairers",49-2011,Line item,96.4,86,-10.4,-10.8,13.9,7.7,"$44,910 ","Some college, no degree",None,Short-term on-the-job training
+      Radio and telecommunications equipment installers and repairers,49-2020,Summary,187.1,198.6,11.4,6.1,2.2,20.5,"$59,940 ",,,
+"        Radio, cellular, and tower equipment installers and repairers",49-2021,Line item,13.5,13.9,0.5,3.4,2,1.4,"$59,720 ",Associate's degree,None,Moderate-term on-the-job training
+"        Telecommunications equipment installers and repairers, except line installers",49-2022,Line item,173.7,184.7,11,6.3,2.2,19.1,"$59,960 ",Postsecondary nondegree award,None,Moderate-term on-the-job training
+"      Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",49-2090,Summary,244,243.4,-0.6,-0.2,3.2,22.3,"$59,270 ",,,
+        Avionics technicians,49-2091,Line item,20.8,21.7,0.9,4.3,,1.9,"$75,450 ",Associate's degree,None,None
+"        Electric motor, power tool, and related repairers",49-2092,Line item,16.1,16.5,0.4,2.5,2.8,1.3,"$48,260 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"        Electrical and electronics installers and repairers, transportation equipment",49-2093,Line item,7.9,8.3,0.4,4.8,,0.7,"$73,630 ",Postsecondary nondegree award,None,Long-term on-the-job training
+"        Electrical and electronics repairers, commercial and industrial equipment",49-2094,Line item,53.6,53.2,-0.4,-0.7,0.5,4.4,"$64,030 ",Postsecondary nondegree award,None,Long-term on-the-job training
+"        Electrical and electronics repairers, powerhouse, substation, and relay",49-2095,Line item,26.1,25.4,-0.7,-2.7,0.5,2.1,"$93,720 ",Postsecondary nondegree award,Less than 5 years,Moderate-term on-the-job training
+"        Electronic equipment installers and repairers, motor vehicles",49-2096,Line item,9.7,7.9,-1.7,-18,0.6,0.6,"$41,600 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Audiovisual equipment installers and repairers,49-2097,Line item,26.9,25.2,-1.8,-6.5,16.4,2.3,"$44,960 ",Postsecondary nondegree award,None,Short-term on-the-job training
+        Security and fire alarm systems installers,49-2098,Line item,83,85.3,2.3,2.8,2.8,8.9,"$50,130 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"    Vehicle and mobile equipment mechanics, installers, and repairers",49-3000,Summary,"1,847.80","1,890.40",42.5,2.3,9.2,163.7,"$48,630 ",,,
+      Aircraft mechanics and service technicians,49-3011,Line item,140.2,146.2,6.1,4.3,1.2,10.9,"$70,010 ",Postsecondary nondegree award,None,None
+      Automotive technicians and repairers,49-3020,Summary,957.4,972.4,15,1.6,13.5,82.8,"$47,040 ",,,
+        Automotive body and related repairers,49-3021,Line item,153.3,155.2,1.9,1.2,8,13.4,"$47,670 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Automotive glass installers and repairers,49-3022,Line item,21.9,22.2,0.4,1.7,19.4,1.7,"$43,700 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Automotive service technicians and mechanics,49-3023,Line item,782.2,795,12.8,1.6,14.4,67.7,"$46,970 ",Postsecondary nondegree award,None,Short-term on-the-job training
+      Bus and truck mechanics and diesel engine specialists,49-3031,Line item,291.6,294.1,2.5,0.9,4.6,24.3,"$54,360 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Heavy vehicle and mobile equipment service technicians and mechanics,49-3040,Summary,234.8,247.8,13,5.5,4.9,21.1,"$58,350 ",,,
+        Farm equipment mechanics and service technicians,49-3041,Line item,45.6,49.3,3.7,8.1,4.5,4.3,"$48,010 ",High school diploma or equivalent,None,Long-term on-the-job training
+"        Mobile heavy equipment mechanics, except engines",49-3042,Line item,169.1,177.6,8.6,5.1,5,15.1,"$59,440 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Rail car repairers,49-3043,Line item,20.1,20.8,0.7,3.6,4.9,1.8,"$62,510 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Small engine mechanics,49-3050,Summary,88,90.5,2.5,2.8,13.4,9,"$44,080 ",,,
+        Motorboat mechanics and service technicians,49-3051,Line item,29.3,31,1.7,5.7,13.5,3.1,"$48,280 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Motorcycle mechanics,49-3052,Line item,17.1,17.4,0.3,1.8,13.7,1.7,"$43,370 ",Postsecondary nondegree award,None,Short-term on-the-job training
+        Outdoor power equipment and other small engine mechanics,49-3053,Line item,41.6,42.1,0.5,1.2,13.1,4.2,"$40,030 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49-3090,Summary,135.9,139.3,3.4,2.5,2,15.5,"$35,250 ",,,
+        Bicycle repairers,49-3091,Line item,14.4,14.9,0.5,3.8,2,1.7,"$36,250 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Recreational vehicle service technicians,49-3092,Line item,17.7,19.4,1.7,9.8,2,2.2,"$45,030 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Tire repairers and changers,49-3093,Line item,103.8,105,1.2,1.1,2,11.6,"$34,240 ",High school diploma or equivalent,None,Short-term on-the-job training
+"    Other installation, maintenance, and repair occupations",49-9000,Summary,"3,363.80","3,535.20",171.5,5.1,3,318.7,"$48,360 ",,,
+      Control and valve installers and repairers,49-9010,Summary,75.9,78.3,2.4,3.2,0.4,5.9,"$55,790 ",,,
+        Mechanical door repairers,49-9011,Line item,28,30.6,2.7,9.6,0.5,2.4,"$47,010 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Control and valve installers and repairers, except mechanical door",49-9012,Line item,47.9,47.6,-0.3,-0.6,0.4,3.4,"$64,810 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Heating, air conditioning, and refrigeration mechanics and installers",49-9021,Line item,415.8,438.8,23,5.5,7.8,37.7,"$51,390 ",Postsecondary nondegree award,None,Long-term on-the-job training
+      Home appliance repairers,49-9031,Line item,36.6,35.1,-1.6,-4.3,19.1,2.9,"$46,000 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Industrial machinery installation, repair, and maintenance workers",49-9040,Summary,508.5,573.1,64.6,12.7,1.6,49.1,"$59,470 ",,,
+        Industrial machinery mechanics,49-9041,Line item,402.2,462.1,59.9,14.9,1.9,39.2,"$59,830 ",High school diploma or equivalent,None,Long-term on-the-job training
+"        Maintenance workers, machinery",49-9043,Line item,63.6,67.1,3.5,5.5,,6.4,"$53,310 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Millwrights,49-9044,Line item,42.1,43.4,1.3,3,1.1,3.5,"$60,930 ",High school diploma or equivalent,None,Apprenticeship
+"        Refractory materials repairers, except brickmasons",49-9045,Line item,0.6,0.5,-0.1,-21.4,,0,"$50,550 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Line installers and repairers,49-9050,Summary,234.5,245.5,11,4.7,1.4,20.6,"$75,230 ",,,
+        Electrical power-line installers and repairers,49-9051,Line item,122.4,125.8,3.5,2.8,0.1,9.7,"$82,340 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Telecommunications line installers and repairers,49-9052,Line item,112.1,119.6,7.5,6.7,2.9,11,"$60,580 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Precision instrument and equipment repairers,49-9060,Summary,89.9,97.5,7.5,8.4,9.4,9.2,"$56,070 ",,,
+        Camera and photographic equipment repairers,49-9061,Line item,2.4,2.4,0,1.1,8.1,0.2,"$44,060 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Medical equipment repairers,49-9062,Line item,66.4,75.1,8.8,13.2,9.6,7.3,"$57,860 ",Associate's degree,None,Moderate-term on-the-job training
+        Musical instrument repairers and tuners,49-9063,Line item,7,6.3,-0.7,-9.4,9.9,0.5,"$38,150 ",High school diploma or equivalent,None,Apprenticeship
+        Watch and clock repairers,49-9064,Line item,2.1,1.4,-0.6,-29.8,10.2,0.1,"$48,370 ",High school diploma or equivalent,None,Long-term on-the-job training
+"        Precision instrument and equipment repairers, all other",49-9069,Line item,12.1,12.1,0,0,8,1.1,"$61,690 ",High school diploma or equivalent,None,Long-term on-the-job training
+"      Maintenance and repair workers, general",49-9071,Line item,"1,607.20","1,664.40",57.2,3.6,0.9,152.4,"$44,980 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Wind turbine service technicians,49-9081,Line item,11.2,16.2,5,44.9,10.6,1.8,"$57,320 ",Postsecondary nondegree award,None,Long-term on-the-job training
+"      Miscellaneous installation, maintenance, and repair workers",49-9090,Summary,384.1,386.5,2.4,0.6,7,39.1,"$40,770 ",,,
+"        Coin, vending, and amusement machine servicers and repairers",49-9091,Line item,39.2,38.5,-0.7,-1.7,7,4.2,"$39,690 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Commercial divers,49-9092,Line item,4.4,4.7,0.3,6,10.4,0.5,"$68,300 ",Postsecondary nondegree award,None,Moderate-term on-the-job training
+        Locksmiths and safe repairers,49-9094,Line item,18.2,16.1,-2,-11.1,14.6,1.7,"$47,400 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Manufactured building and mobile home installers,49-9095,Line item,4.1,3.2,-0.9,-21,10.7,0.3,"$36,820 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Riggers,49-9096,Line item,19.7,20,0.3,1.4,,2,"$54,680 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Signal and track switch repairers,49-9097,Line item,6.6,6.7,0.1,1.2,9.3,0.6,"$81,300 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Helpers--installation, maintenance, and repair workers",49-9098,Line item,96.5,98.9,2.4,2.5,1.3,11,"$35,100 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Installation, maintenance, and repair workers, all other",49-9099,Line item,195.4,198.3,2.9,1.5,9.7,18.8,"$44,500 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+  Production occupations,51-0000,Summary,"9,134.50","8,845.80",-288.7,-3.2,2.7,933,"$39,910 ",,,
+    Supervisors of production workers,51-1000,Summary,681.7,683.7,1.9,0.3,1.5,63.3,"$63,510 ",,,
+      First-line supervisors of production and operating workers,51-1011,Line item,681.7,683.7,1.9,0.3,1.5,63.3,"$63,510 ",High school diploma or equivalent,Less than 5 years,None
+    Assemblers and fabricators,51-2000,Summary,"1,961.90","1,836.20",-125.7,-6.4,1.3,188.6,"$37,930 ",,,
+"      Aircraft structure, surfaces, rigging, and systems assemblers",51-2011,Line item,33.9,28.8,-5.1,-15.2,1.4,2.8,"$58,430 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Electrical, electronics, and electromechanical assemblers",51-2020,Summary,294,304.9,10.9,3.7,0.8,32.7,"$38,640 ",,,
+"        Coil winders, tapers, and finishers",51-2021,Line item,11.1,9.3,-1.8,-16.6,0.8,0.9,"$43,160 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",51-2028,Line item,282.9,295.6,12.7,4.5,0.8,31.8,"$38,580 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Engine and other machine assemblers,51-2031,Line item,50.9,41.3,-9.6,-18.9,,4.7,"$50,850 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Structural metal fabricators and fitters,51-2041,Line item,59.6,49.8,-9.8,-16.4,,4.6,"$47,200 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Fiberglass laminators and fabricators,51-2051,Line item,22.6,22.5,-0.1,-0.3,1.5,2.4,"$38,110 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Timing device assemblers and adjusters,51-2061,Line item,0.4,0.3,-0.1,-18.7,,0,"$42,290 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Miscellaneous assemblers and fabricators,51-2090,Line item,"1,500.40","1,388.60",-111.8,-7.5,1.5,141.4,"$37,280 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Food processing workers,51-3000,Summary,841.7,869.3,27.6,3.3,1.7,115.4,"$35,320 ",,,
+      Bakers,51-3011,Line item,218.8,229.6,10.8,4.9,4,33.8,"$32,780 ",No formal educational credential,None,Moderate-term on-the-job training
+"      Butchers and other meat, poultry, and fish processing workers",51-3020,Summary,353.8,354.1,0.4,0.1,0.4,41.7,"$35,870 ",,,
+        Butchers and meat cutters,51-3021,Line item,131.6,130.1,-1.6,-1.2,0.4,15.3,"$36,930 ",No formal educational credential,None,Long-term on-the-job training
+"        Meat, poultry, and fish cutters and trimmers",51-3022,Line item,141,143.8,2.8,2,0.4,17,"$35,070 ",No formal educational credential,None,Short-term on-the-job training
+        Slaughterers and meat packers,51-3023,Line item,81.1,80.3,-0.8,-1,0.4,9.4,"$35,240 ",No formal educational credential,None,Short-term on-the-job training
+      Miscellaneous food processing workers,51-3090,Summary,269.2,285.6,16.4,6.1,1.6,39.9,"$36,190 ",,,
+"        Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,Line item,21.5,22.2,0.7,3,4.7,3,"$37,790 ",No formal educational credential,None,Moderate-term on-the-job training
+        Food batchmakers,51-3092,Line item,171.5,185,13.4,7.8,1.2,27.8,"$36,580 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Food cooking machine operators and tenders,51-3093,Line item,27.3,27.7,0.4,1.6,0.3,3.9,"$36,700 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Food processing workers, all other",51-3099,Line item,48.8,50.7,1.9,3.9,2.4,5.2,"$34,710 ",No formal educational credential,None,Moderate-term on-the-job training
+    Metal workers and plastic workers,51-4000,Summary,"1,693.40","1,640.70",-52.7,-3.1,1.5,156.9,"$45,080 ",,,
+"      Forming machine setters, operators, and tenders, metal and plastic",51-4020,Summary,103.4,97.5,-5.9,-5.7,,9.6,"$42,540 ",,,
+"        Extruding and drawing machine setters, operators, and tenders, metal and plastic",51-4021,Line item,64.3,63.1,-1.2,-1.9,,6.4,"$39,970 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Forging machine setters, operators, and tenders, metal and plastic",51-4022,Line item,10.9,9.3,-1.6,-14.6,,0.9,"$46,540 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Rolling machine setters, operators, and tenders, metal and plastic",51-4023,Line item,28.2,25.1,-3.1,-11,,2.4,"$46,310 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Machine tool cutting setters, operators, and tenders, metal and plastic",51-4030,Summary,301.8,269.3,-32.5,-10.8,0,26.1,"$39,880 ",,,
+"        Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,Line item,184.8,164.7,-20.1,-10.9,,14.9,"$39,340 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Drilling and boring machine tool setters, operators, and tenders, metal and plastic",51-4032,Line item,6.6,5.4,-1.2,-18.3,,0.6,"$42,450 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51-4033,Line item,75,67.9,-7.1,-9.5,0.2,6.8,"$38,910 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51-4034,Line item,19.7,17.8,-1.9,-9.4,,2.2,"$47,020 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Milling and planing machine setters, operators, and tenders, metal and plastic",51-4035,Line item,15.7,13.5,-2.2,-13.9,,1.6,"$46,870 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Machinists,51-4041,Line item,327,333.3,6.3,1.9,1.4,32.6,"$48,510 ",High school diploma or equivalent,None,Long-term on-the-job training
+"      Metal furnace operators, tenders, pourers, and casters",51-4050,Summary,25.9,23.7,-2.2,-8.4,,2.2,"$49,110 ",,,
+        Metal-refining furnace operators and tenders,51-4051,Line item,19.7,18.1,-1.6,-8.2,,1.7,"$50,280 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Pourers and casters, metal",51-4052,Line item,6.2,5.6,-0.6,-9.1,,0.5,"$45,070 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Model makers and patternmakers, metal and plastic",51-4060,Summary,5.7,4.5,-1.1,-19.9,,0.3,"$56,170 ",,,
+"        Model makers, metal and plastic",51-4061,Line item,3.4,2.8,-0.6,-18.8,,0.2,"$57,620 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Patternmakers, metal and plastic",51-4062,Line item,2.3,1.8,-0.5,-21.6,,0.1,"$54,970 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Molders and molding machine setters, operators, and tenders, metal and plastic",51-4070,Summary,179.4,170.5,-8.9,-5,0,14.6,"$37,160 ",,,
+        Foundry mold and coremakers,51-4071,Line item,11.5,8.8,-2.7,-23.5,,0.6,"$40,120 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",51-4072,Line item,167.9,161.7,-6.2,-3.7,0,13.9,"$37,050 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Multiple machine tool setters, operators, and tenders, metal and plastic",51-4081,Line item,139.9,140.7,0.8,0.6,0.7,13.6,"$39,210 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Tool and die makers,51-4111,Line item,62.7,57.4,-5.3,-8.5,,5.6,"$59,800 ",Postsecondary nondegree award,None,Long-term on-the-job training
+"      Welding, soldering, and brazing workers",51-4120,Summary,464.7,468.1,3.4,0.7,4,45.4,"$47,430 ",,,
+"        Welders, cutters, solderers, and brazers",51-4121,Line item,431.8,438,6.2,1.4,4,42.6,"$47,540 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Welding, soldering, and brazing machine setters, operators, and tenders",51-4122,Line item,32.9,30.1,-2.8,-8.4,4,2.8,"$44,920 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Miscellaneous metal workers and plastic workers,51-4190,Summary,83,75.5,-7.4,-8.9,0.7,6.9,"$39,520 ",,,
+"        Heat treating equipment setters, operators, and tenders, metal and plastic",51-4191,Line item,16,14.6,-1.5,-9.1,0.7,1.3,"$40,900 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Layout workers, metal and plastic",51-4192,Line item,7.1,6.4,-0.7,-10.2,,0.6,"$58,260 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Plating machine setters, operators, and tenders, metal and plastic",51-4193,Line item,32.9,29.8,-3.1,-9.4,0.7,2.7,"$37,900 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Tool grinders, filers, and sharpeners",51-4194,Line item,5.5,5,-0.5,-8.5,,0.5,"$41,940 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Metal workers and plastic workers, all other",51-4199,Line item,21.4,19.8,-1.7,-7.8,0.7,1.8,"$38,340 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Printing workers,51-5100,Summary,222.5,198.1,-24.4,-11,3.2,19.7,"$38,890 ",,,
+      Prepress technicians and workers,51-5111,Line item,25.7,21.3,-4.4,-17.1,1.4,2.5,"$43,560 ",Postsecondary nondegree award,None,None
+      Printing press operators,51-5112,Line item,155.5,142.3,-13.2,-8.5,2.9,14.4,"$39,350 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Print binding and finishing workers,51-5113,Line item,41.4,34.6,-6.8,-16.4,5.4,2.8,"$36,970 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"    Textile, apparel, and furnishings workers",51-6000,Summary,536.3,490.3,-46,-8.6,10.8,57.7,"$31,200 ",,,
+      Laundry and dry-cleaning workers,51-6011,Line item,184.4,182,-2.3,-1.3,1.9,24.5,"$29,060 ",No formal educational credential,None,Short-term on-the-job training
+"      Pressers, textile, garment, and related materials",51-6021,Line item,29.8,23.3,-6.5,-21.8,1.8,2.7,"$29,690 ",No formal educational credential,None,Short-term on-the-job training
+      Sewing machine operators,51-6031,Line item,141.9,120.3,-21.6,-15.2,17,12.5,"$31,740 ",No formal educational credential,None,Short-term on-the-job training
+      Shoe and leather workers,51-6040,Summary,13.1,11.7,-1.4,-10.9,8,1.3,"$32,790 ",,,
+        Shoe and leather workers and repairers,51-6041,Line item,9.8,8.7,-1.1,-11,8,1,"$32,460 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Shoe machine operators and tenders,51-6042,Line item,3.3,2.9,-0.4,-10.9,8,0.3,"$33,060 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Tailors, dressmakers, and sewers",51-6050,Summary,40.9,35.1,-5.7,-14,49,4.6,"$33,850 ",,,
+"        Sewers, hand",51-6051,Line item,6.9,5.8,-1.1,-15.8,49,0.8,"$31,530 ",No formal educational credential,None,Moderate-term on-the-job training
+"        Tailors, dressmakers, and custom sewers",51-6052,Line item,33.9,29.3,-4.6,-13.6,49,3.8,"$34,280 ",No formal educational credential,None,Moderate-term on-the-job training
+"      Textile machine setters, operators, and tenders",51-6060,Summary,60.9,55,-5.9,-9.7,2,5.8,"$34,170 ",,,
+        Textile bleaching and dyeing machine operators and tenders,51-6061,Line item,7,6.4,-0.7,-9.5,2,0.7,"$32,680 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Textile cutting machine setters, operators, and tenders",51-6062,Line item,11.1,9.9,-1.2,-10.8,2.1,1,"$34,420 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Textile knitting and weaving machine setters, operators, and tenders",51-6063,Line item,17.8,15.9,-1.9,-10.5,2,1.7,"$35,750 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Textile winding, twisting, and drawing out machine setters, operators, and tenders",51-6064,Line item,25,22.9,-2.2,-8.6,2,2.4,"$33,720 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Miscellaneous textile, apparel, and furnishings workers",51-6090,Summary,65.4,62.8,-2.5,-3.9,11.3,6.3,"$38,460 ",,,
+"        Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51-6091,Line item,16.3,15.9,-0.4,-2.3,9,1.7,"$39,860 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Fabric and apparel patternmakers,51-6092,Line item,3.4,3.1,-0.2,-7.4,9.2,0.3,"$60,320 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Upholsterers,51-6093,Line item,31.5,30.7,-0.8,-2.5,13.9,2.8,"$39,600 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Textile, apparel, and furnishings workers, all other",51-6099,Line item,14.3,13.2,-1.1,-7.8,8.7,1.4,"$32,640 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Woodworkers,51-7000,Summary,253.9,250.7,-3.2,-1.3,8.2,25,"$37,520 ",,,
+      Cabinetmakers and bench carpenters,51-7011,Line item,105.7,103.7,-2,-1.9,8.9,9.8,"$38,810 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Furniture finishers,51-7021,Line item,19.2,19.1,-0.1,-0.7,21.8,2.2,"$37,960 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Model makers and patternmakers, wood",51-7030,Summary,1.6,1.5,-0.1,-4,31.4,0.2,"$46,100 ",,,
+"        Model makers, wood",51-7031,Line item,1.1,1,0,-3.6,31.5,0.1,"$46,940 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Patternmakers, wood",51-7032,Line item,0.5,0.5,0,-5.1,31.3,0.1,"$44,290 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Woodworking machine setters, operators, and tenders",51-7040,Summary,114,113.4,-0.6,-0.5,2.1,11.4,"$36,580 ",,,
+"        Sawing machine setters, operators, and tenders, wood",51-7041,Line item,49.4,49.5,0.1,0.1,4.8,5.5,"$36,270 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Woodworking machine setters, operators, and tenders, except sawing",51-7042,Line item,64.6,63.9,-0.6,-1,,5.9,"$36,830 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Woodworkers, all other",51-7099,Line item,13.5,13,-0.5,-3.6,31.4,1.5,"$35,370 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Plant and system operators,51-8000,Summary,287.8,273,-14.8,-5.1,0.5,24.2,"$64,990 ",,,
+"      Power plant operators, distributors, and dispatchers",51-8010,Summary,47.3,42.6,-4.7,-10,,3.2,"$97,570 ",,,
+        Nuclear power reactor operators,51-8011,Line item,5.5,5.3,-0.2,-3.3,,0.4,"$115,870 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Power distributors and dispatchers,51-8012,Line item,9.6,9.1,-0.5,-5,,0.7,"$101,650 ",High school diploma or equivalent,None,Long-term on-the-job training
+        Power plant operators,51-8013,Line item,32.2,28.2,-4,-12.5,,2.1,"$93,060 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Stationary engineers and boiler operators,51-8021,Line item,33.5,34.4,1,2.8,,3.6,"$67,120 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Water and wastewater treatment plant and system operators,51-8031,Line item,124.8,116.9,-7.9,-6.3,1.2,10.5,"$51,600 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Miscellaneous plant and system operators,51-8090,Summary,82.2,79.1,-3.1,-3.8,,7,"$79,210 ",,,
+        Chemical plant and system operators,51-8091,Line item,19.3,18.6,-0.6,-3.2,,1.7,"$82,670 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Gas plant operators,51-8092,Line item,14.8,13,-1.7,-11.7,,1.1,"$79,460 ",High school diploma or equivalent,None,Long-term on-the-job training
+"        Petroleum pump system operators, refinery operators, and gaugers",51-8093,Line item,32.2,31.5,-0.7,-2.3,,2.8,"$85,090 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Plant and system operators, all other",51-8099,Line item,15.9,15.9,0,-0.2,,1.4,"$57,470 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Other production occupations,51-9000,Summary,"2,655.30","2,603.90",-51.4,-1.9,3.1,282.1,"$39,960 ",,,
+"      Chemical processing machine setters, operators, and tenders",51-9010,Summary,175.9,171.2,-4.6,-2.6,1.2,15.6,"$48,260 ",,,
+        Chemical equipment operators and tenders,51-9011,Line item,120.2,113.7,-6.6,-5.5,1.2,10.2,"$49,330 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",51-9012,Line item,55.6,57.6,1.9,3.4,1.2,5.4,"$46,250 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Crushing, grinding, polishing, mixing, and blending workers",51-9020,Summary,157.3,155.2,-2.1,-1.3,1.5,15.7,"$42,120 ",,,
+"        Crushing, grinding, and polishing machine setters, operators, and tenders",51-9021,Line item,28.8,27.8,-1,-3.5,1.5,2.8,"$43,290 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Grinding and polishing workers, hand",51-9022,Line item,14.5,11.7,-2.8,-19.5,1.5,1,"$36,960 ",No formal educational credential,None,Moderate-term on-the-job training
+"        Mixing and blending machine setters, operators, and tenders",51-9023,Line item,114,115.8,1.7,1.5,1.5,11.8,"$43,410 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Cutting workers,51-9030,Summary,64,59.4,-4.6,-7.2,1.1,6.1,"$39,410 ",,,
+"        Cutters and trimmers, hand",51-9031,Line item,8.3,5.9,-2.3,-28.2,1.1,0.5,"$36,130 ",No formal educational credential,None,Short-term on-the-job training
+"        Cutting and slicing machine setters, operators, and tenders",51-9032,Line item,55.8,53.4,-2.3,-4.1,1.1,5.6,"$39,880 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,Line item,60,59.2,-0.8,-1.3,,5.8,"$39,480 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Furnace, kiln, oven, drier, and kettle operators and tenders",51-9051,Line item,16.2,16.2,0.1,0.4,5,1.8,"$44,530 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Inspectors, testers, sorters, samplers, and weighers",51-9061,Line item,595.4,572.4,-23,-3.9,1.1,64.3,"$43,900 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Jewelers and precious stone and metal workers,51-9071,Line item,47.2,45.8,-1.4,-2.9,45.5,6.1,"$47,140 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Dental and ophthalmic laboratory technicians and medical appliance technicians,51-9080,Summary,73.4,72.4,-1,-1.3,4.8,8.3,"$41,180 ",,,
+        Dental laboratory technicians,51-9081,Line item,35.4,33.8,-1.6,-4.5,4.7,3.8,"$46,050 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Medical appliance technicians,51-9082,Line item,16.6,17.1,0.4,2.5,4.8,2,"$42,160 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Ophthalmic laboratory technicians,51-9083,Line item,21.3,21.6,0.2,1.1,4.8,2.5,"$36,810 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Packaging and filling machine operators and tenders,51-9111,Line item,373.2,390.5,17.3,4.6,0.3,42.4,"$36,750 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Painting workers,51-9120,Summary,185.9,186.9,1,0.5,10.2,16.7,"$43,370 ",,,
+"        Painting, coating, and decorating workers",51-9123,Line item,13.5,13.5,0,0.1,10.1,1.2,"$38,270 ",No formal educational credential,None,Moderate-term on-the-job training
+"        Coating, painting, and spraying machine setters, operators, and tenders",51-9124,Line item,172.4,173.4,1,0.6,10.2,15.5,"$43,960 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Semiconductor processing technicians,51-9141,Line item,24.6,26.6,2,8,,2.9,"$44,690 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Photographic process workers and processing machine operators,51-9151,Line item,6.4,5.6,-0.8,-12.5,15.6,0.7,"$36,280 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Computer numerically controlled tool operators and programmers,51-9160,Summary,210.3,200.2,-10.1,-4.8,,17.5,"$47,810 ",,,
+        Computer numerically controlled tool operators,51-9161,Line item,181.8,167.2,-14.6,-8.1,,14.3,"$46,760 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Computer numerically controlled tool programmers,51-9162,Line item,28.5,33,4.6,16,,3.2,"$60,800 ",Postsecondary nondegree award,None,Moderate-term on-the-job training
+      Miscellaneous production workers,51-9190,Summary,665.6,642.3,-23.3,-3.5,3.5,78.1,"$36,680 ",,,
+        Adhesive bonding machine operators and tenders,51-9191,Line item,11.4,11.2,-0.3,-2.2,,1,"$38,780 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Cleaning, washing, and metal pickling equipment operators and tenders",51-9192,Line item,14,14.5,0.5,3.8,5.9,1.6,"$37,190 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Cooling and freezing equipment operators and tenders,51-9193,Line item,7.1,7.4,0.4,5.1,5.6,0.8,"$42,890 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Etchers and engravers,51-9194,Line item,8.5,8.4,0,-0.2,,1.3,"$37,980 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Molders, shapers, and casters, except metal and plastic",51-9195,Line item,44.7,45.8,1.1,2.4,11.1,5.8,"$39,590 ",High school diploma or equivalent,None,Long-term on-the-job training
+"        Paper goods machine setters, operators, and tenders",51-9196,Line item,92.7,82.5,-10.2,-11,,8.8,"$45,710 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Tire builders,51-9197,Line item,18.9,18.1,-0.8,-4.3,,1.8,"$51,650 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Helpers--production workers,51-9198,Line item,193,175.1,-17.9,-9.3,0.7,26.9,"$34,670 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Production workers, all other",51-9199,Line item,275.3,279.2,3.9,1.4,5.7,30.1,"$35,490 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+  Transportation and material moving occupations,53-0000,Summary,"14,302.80","15,082.20",779.4,5.4,4.1,"1,920.80","$37,940 ",,,
+    Supervisors of transportation and material moving workers,53-1000,Summary,609.1,637.9,28.8,4.7,0.4,64.8,"$57,810 ",,,
+      Aircraft cargo handling supervisors,53-1041,Line item,8,8.7,0.7,8.6,,0.9,"$53,490 ",High school diploma or equivalent,Less than 5 years,None
+"      First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",53-1047,Line item,601.1,629.2,28.1,4.7,0.4,63.9,"$57,860 ",High school diploma or equivalent,Less than 5 years,None
+    Air transportation workers,53-2000,Summary,291.7,311,19.3,6.6,0.5,36.9,"$95,010 ",,,
+      Aircraft pilots and flight engineers,53-2010,Summary,142.6,148.1,5.6,3.9,0.9,16.8,"$148,900 ",,,
+"        Airline pilots, copilots, and flight engineers",53-2011,Line item,91.7,95.2,3.5,3.9,,10.8,"$211,790 ",Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+        Commercial pilots,53-2012,Line item,50.9,52.9,2.1,4,2.6,6,"$103,910 ",Postsecondary nondegree award,None,Moderate-term on-the-job training
+      Air traffic controllers and airfield operations specialists,53-2020,Summary,38,39.1,1.1,2.8,,3.4,"$94,700 ",,,
+        Air traffic controllers,53-2021,Line item,23,23.3,0.3,1.4,,2,"$132,250 ",Associate's degree,None,Long-term on-the-job training
+        Airfield operations specialists,53-2022,Line item,15,15.8,0.7,4.9,,1.4,"$49,600 ",High school diploma or equivalent,None,Long-term on-the-job training
+      Flight attendants,53-2031,Line item,111.1,123.8,12.6,11.4,,16.6,"$63,760 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+    Motor vehicle operators,53-3000,Summary,"4,887.00","5,224.70",337.7,6.9,10.1,589.2,"$45,460 ",,,
+"      Ambulance drivers and attendants, except emergency medical technicians",53-3011,Line item,10.1,10.1,0,0.2,,1.4,"$30,380 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Driver/sales workers and truck drivers,53-3030,Summary,"3,897.80","4,162.80",265,6.8,7.5,445,"$46,300 ",,,
+        Driver/sales workers,53-3031,Line item,541,582.9,41.9,7.7,7.6,62.5,"$32,690 ",High school diploma or equivalent,None,Short-term on-the-job training
+        Heavy and tractor-trailer truck drivers,53-3032,Line item,"2,192.30","2,281.50",89.3,4.1,7.5,241.2,"$49,920 ",Postsecondary nondegree award,None,Short-term on-the-job training
+        Light truck drivers,53-3033,Line item,"1,164.60","1,298.40",133.8,11.5,7.6,141.3,"$40,410 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Passenger vehicle drivers,53-3050,Summary,910.8,978.1,67.3,7.4,19.8,131.9,"$39,440 ",,,
+"        Bus drivers, school",53-3051,Line item,358.8,363.7,4.9,1.4,0.5,55.2,"$41,270 ",High school diploma or equivalent,None,Short-term on-the-job training
+"        Bus drivers, transit and intercity",53-3052,Line item,156.4,164.8,8.4,5.4,4.1,21.2,"$50,890 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Shuttle drivers and chauffeurs,53-3053,Line item,218.4,235.9,17.5,8,4.4,32.6,"$32,800 ",No formal educational credential,None,Short-term on-the-job training
+        Taxi drivers,53-3054,Line item,177.3,213.7,36.4,20.6,91.5,22.8,"$30,670 ",No formal educational credential,None,Short-term on-the-job training
+"      Motor vehicle operators, all other",53-3099,Line item,68.3,73.7,5.4,7.9,26.3,10.9,"$33,210 ",No formal educational credential,None,Short-term on-the-job training
+    Rail transportation workers,53-4000,Summary,90.5,91.8,1.2,1.4,,7.7,"$68,960 ",,,
+      Locomotive engineers and operators,53-4010,Summary,32.3,32.6,0.3,1,,2.6,"$73,770 ",,,
+        Locomotive engineers,53-4011,Line item,29.7,29.9,0.2,0.8,,2.4,"$74,570 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+"        Rail yard engineers, dinkey operators, and hostlers",53-4013,Line item,2.6,2.6,0.1,2.4,,0.2,"$56,340 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Railroad brake, signal, and switch operators and locomotive firers",53-4022,Line item,12.2,12.3,0.1,1.2,,1.2,"$67,540 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Railroad conductors and yardmasters,53-4031,Line item,34.2,34.6,0.4,1.1,,2.8,"$68,180 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Subway and streetcar operators,53-4041,Line item,9.5,9.8,0.3,3.5,,1,"$88,260 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"      Rail transportation workers, all other",53-4099,Line item,2.4,2.4,0.1,2.2,,0.2,"$42,280 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+    Water transportation workers,53-5000,Summary,83.2,84.8,1.5,1.8,3.8,8.8,"$66,100 ",,,
+      Sailors and marine oilers,53-5011,Line item,30.7,31.3,0.6,2,0.4,3.3,"$47,490 ",No formal educational credential,None,Moderate-term on-the-job training
+      Ship and boat captains and operators,53-5020,Summary,43.2,44,0.8,1.8,6.9,4.5,"$87,320 ",,,
+"        Captains, mates, and pilots of water vessels",53-5021,Line item,39.6,40.3,0.7,1.7,7,4.1,"$95,210 ",Postsecondary nondegree award,Less than 5 years,None
+        Motorboat operators,53-5022,Line item,3.6,3.7,0.1,2.9,6.5,0.4,"$41,430 ",Postsecondary nondegree award,Less than 5 years,None
+      Ship engineers,53-5031,Line item,9.3,9.4,0.1,1.3,,1,"$87,300 ",Postsecondary nondegree award,Less than 5 years,None
+    Other transportation workers,53-6000,Summary,291.7,296.4,4.7,1.6,0.4,40.7,"$32,680 ",,,
+      Bridge and lock tenders,53-6011,Line item,3.8,3.8,0,-0.8,,0.4,"$47,280 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Parking attendants,53-6021,Line item,108.4,110,1.6,1.5,,15.7,"$30,570 ",No formal educational credential,None,Short-term on-the-job training
+      Transportation service attendants,53-6030,Summary,120.6,121.7,1.1,0.9,,17.7,"$31,820 ",,,
+        Automotive and watercraft service attendants,53-6031,Line item,100.7,100.9,0.2,0.2,,14.6,"$30,850 ",No formal educational credential,None,Short-term on-the-job training
+        Aircraft service attendants,53-6032,Line item,19.9,20.8,0.9,4.7,,3,"$37,050 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Traffic technicians,53-6041,Line item,7.6,7.9,0.3,3.5,,0.8,"$50,050 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Transportation inspectors,53-6051,Line item,25.7,26.4,0.7,2.7,3.1,2.4,"$79,570 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Passenger attendants,53-6061,Line item,13.5,14,0.6,4.1,,2.4,"$34,630 ",High school diploma or equivalent,None,Short-term on-the-job training
+"      Transportation workers, all other",53-6099,Line item,12.1,12.6,0.5,3.9,1.9,1.3,"$37,430 ",High school diploma or equivalent,None,Short-term on-the-job training
+    Material moving workers,53-7000,Summary,"8,049.40","8,435.60",386.2,4.8,1.1,"1,172.60","$35,670 ",,,
+      Conveyor operators and tenders,53-7011,Line item,30.6,32.4,1.8,5.8,10.9,3.3,"$36,890 ",No formal educational credential,None,Short-term on-the-job training
+      Crane and tower operators,53-7021,Line item,48.4,48.5,0.1,0.2,5.3,4.5,"$61,340 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Dredge operators,53-7031,Line item,1,1.1,0,0.3,9.9,0.1,"$47,090 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+      Hoist and winch operators,53-7041,Line item,2.8,2.7,0,-1.8,9.7,0.3,"$58,950 ",No formal educational credential,None,Short-term on-the-job training
+      Industrial truck and tractor operators,53-7051,Line item,796.6,826.5,29.9,3.7,0.1,80.9,"$41,230 ",No formal educational credential,None,Short-term on-the-job training
+      Laborers and material movers,53-7060,Summary,"6,952.90","7,301.60",348.7,5,1,"1,057.10","$34,880 ",,,
+        Cleaners of vehicles and equipment,53-7061,Line item,401.8,416.8,15,3.7,7.8,55.3,"$31,000 ",No formal educational credential,None,Short-term on-the-job training
+"        Laborers and freight, stock, and material movers, hand",53-7062,Line item,"2,988.50","3,147.30",158.8,5.3,1,411.7,"$36,110 ",No formal educational credential,None,Short-term on-the-job training
+        Machine feeders and offbearers,53-7063,Line item,51.5,54.3,2.8,5.5,,8.5,"$38,040 ",No formal educational credential,None,Short-term on-the-job training
+"        Packers and packagers, hand",53-7064,Line item,659.6,652.9,-6.6,-1,0.8,93,"$32,920 ",No formal educational credential,None,Short-term on-the-job training
+        Stockers and order fillers,53-7065,Line item,"2,851.60","3,030.30",178.6,6.3,0.2,488.7,"$34,220 ",High school diploma or equivalent,None,Short-term on-the-job training
+      Pumping station operators,53-7070,Summary,31.3,31.2,0,-0.1,0.4,3.1,"$60,180 ",,,
+        Gas compressor and gas pumping station operators,53-7071,Line item,3.9,3.8,-0.1,-2.1,,0.4,"$59,990 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+"        Pump operators, except wellhead pumpers",53-7072,Line item,11.2,11.6,0.4,3.6,,1.2,"$55,860 ",High school diploma or equivalent,None,Moderate-term on-the-job training
+        Wellhead pumpers,53-7073,Line item,16.2,15.9,-0.4,-2.2,0.4,1.6,"$63,280 ",High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+      Refuse and recyclable material collectors,53-7081,Line item,146.4,151.1,4.7,3.2,7.6,18.6,"$43,540 ",No formal educational credential,None,Short-term on-the-job training
+"      Tank car, truck, and ship loaders",53-7121,Line item,13.3,13.5,0.2,1.6,3.3,1.6,"$53,930 ",No formal educational credential,None,Short-term on-the-job training
+"      Material moving workers, all other",53-7199,Line item,26.1,27,0.9,3.5,3.1,3.2,"$38,800 ",No formal educational credential,None,Short-term on-the-job training
+Footnotes:,,,,,,,,,,,,
+"(1) Data are from the Occupational Employment and Wage Statistics program, U.S. Bureau of Labor Statistics. Wage data cover non-farm wage and salary workers and do not cover the self-employed, owners and partners in unincorporated firms, or household workers.",,,,,,,,,,,,
+"Note: Data is unavailable for values denoted with a """".",,,,,,,,,,,,
+"Source: Employment Projections program, U.S. Bureau of Labor Statistics",,,,,,,,,,,,
