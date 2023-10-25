@@ -18,11 +18,11 @@ In this project, we analyze the current and the projected employment distributio
 2.	*What is the distribution of the wages for different sectors?* [Code Link](https://github.com/vinaya-kusuma/Project1/blob/rao/minor-fixes/Wages_distribution_Analysis.ipynb)*
 3.	*Correlation between the job experience for declining jobs and automation probability?* [Code Link](https://github.com/vinaya-kusuma/Project1/blob/rao/minor-fixes/Wages_distribution_Analysis.ipynb)*
 4.	*What are the jobs that are affected the most due to automation?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Occupation_Analysis.ipynb)*
-5.  *What is the impact of automation on different Ethnicities?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Ethnicity_Occupation_Analysis.ipynb)*
+5. *What is the impact of automation on different Ethnicities?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Ethnicity_Occupation_Analysis.ipynb)*
 6.	*What are the fastest growing/declining occupations?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Occupation_Analysis.ipynb)*
-7.	*What are the employment prospects for the job seekers who have lost their jobs due to automation?*
-8.	*What is the impact of automation across US states? [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Automation_Analysis_by_state.ipynb)*
-9.	*What are the highly impacted jobs in certain US states? [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Automation_Analysis_by_state.ipynb)*
+7.	*What are the employment prospects for the job seekers who have lost their jobs due to automation?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Median_Wage_Education_Analysis.ipynb)*
+8.	*What is the impact of automation across US states?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Automation_Analysis_by_state.ipynb)*
+9.	*What are the highly impacted jobs in certain US states?* [Code link](https://github.com/vinaya-kusuma/Project1/blob/main/Automation_Analysis_by_state.ipynb)*
 
 ## Pre-requisites:
 We have used plotly express library to plot US map with states in our code. Here is the command to install plotly express
